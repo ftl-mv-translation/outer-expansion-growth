@@ -1,0 +1,337 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/text"
+msgstr "Système de filtration acide."
+
+#: src-en/data/events_special_storage.xml.append:9
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/text"
+msgstr "Système de filtration acide."
+
+#: src-en/data/events_special_storage.xml.append:15
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/text"
+msgstr "Que voulez-vous faire ?"
+
+#: src-en/data/events_special_storage.xml.append:18
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:23
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[2]/text"
+msgstr ""
+"Réglez le système de filtration sur Mode Extincteur (Actuellement activé)."
+
+#: src-en/data/events_special_storage.xml.append:28
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[3]/text"
+msgstr "Réglez le système de filtration sur Mode Oxygène."
+
+#: src-en/data/events_special_storage.xml.append:30
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[3]/event/text"
+msgstr ""
+"Votre système de filtration bascule pour commencer à produire de l'oxygène."
+
+#: src-en/data/events_special_storage.xml.append:33
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:35
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[3]/event/choice/event/text"
+msgstr "Le sous-système de survie du système ralentit."
+
+#: src-en/data/events_special_storage.xml.append:38
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS\"]/choice[3]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:49
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/text"
+msgstr "Que voulez-vous faire ?"
+
+#: src-en/data/events_special_storage.xml.append:52
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:57
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[2]/text"
+msgstr "Réglez le système de filtration sur Mode Extincteur."
+
+#: src-en/data/events_special_storage.xml.append:59
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[2]/event/text"
+msgstr ""
+"Votre système de filtration bascule pour commencer à produire du supprimant "
+"d'incendie."
+
+#: src-en/data/events_special_storage.xml.append:62
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:64
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[2]/event/choice/event/text"
+msgstr "Le sous-système de survie du système devient plus efficace."
+
+#: src-en/data/events_special_storage.xml.append:67
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[2]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:76
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_OE_O2SYS_OFF\"]/choice[3]/text"
+msgstr ""
+"Réglez le système de filtration sur Mode Oxygène (Actuellement activé)."
+
+#: src-en/data/events_special_storage.xml.append:83
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG_OE_BOSS_SPAWNER_LIST\"]/mod-"
+"append:choice/text"
+msgstr "Destroyer acide B - Lâche Projeteur acide"
+
+#: src-en/data/events_special_storage.xml.append:85
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG_OE_BOSS_SPAWNER_LIST\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"Vous allumez la machine au maximum et regardez une faille s'ouvrir, secouant"
+" le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une lumière verte"
+" clignotante suivie d'une série de coordonnées signifie que cela a "
+"fonctionné."
+
+#: src-en/data/events_special_storage.xml.append:96
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_LOOT\"]/mod-"
+"append:choice/text"
+msgstr "(Origines Acides)"
+
+#: src-en/data/events_special_storage.xml.append:103
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_MV\"]/mod-"
+"append:choice/text"
+msgstr "Destroyer acide"
+
+#: src-en/data/events_special_storage.xml.append:105
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_MV\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"CLASSE : Destroyer acide\n"
+"\t\t\tFACTION : Croissance Acide\n"
+"\t\t\t\n"
+"\t\t\tLa Croissance Acide, dans sa campagne d'expansion, a rapidement appris que l'univers est un endroit dangereux. Bien qu'ils aient eu le soutien de la Cueillette en finances et ressources, ils ne fournissaient pas de vaisseaux prêts au combat, insistant pour garder la garde sur les leurs. Évidemment, cela n'a pas aidé à étendre les territoires de la Croissance. Donc, la Croissance a commencé à fabriquer plus que de simples vaisseaux civils, devenant rapidement célèbre pour son armement avancé. Mais, à mesure que l'armement s'améliorait, sa construction navale ne pouvait pas vraiment suivre... C'est-à-dire, jusqu'à ce que la Cueillette partage certains de leurs ingénieurs en raison de la menace croissante de la Rébellion et de la Coalition. Après la création du Croiseur acide, le projet suivant nécessitait suffisamment de puissance pour manier un arsenal aussi grand que possible. Nommé Destroyer acide, le nouveau vaisseau est arrivé installé avec jusqu'à 6 emplacements d'armes, atteignant la plus grande puissance de feu qu'il pouvait sans artillerie, qui n'était souvent pas assez adaptable. Cela est venu avec un compromis : le blindage du vaisseau a souffert pour permettre assez de puissance pour faire fonctionner l'arsenal. Malgré cela, le Destroyer est rapidement devenu le cauchemar de la Coalition. Comme on dit, une bonne attaque est la meilleure défense."
+
+#: src-en/data/events_special_storage.xml.append:111
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_MV\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:120
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:122
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"PROFIL : Bill\n"
+"\t\t\tTitre : Naufragé acide\n"
+"\t\t\tEspèce : Croissance Acide - Âge : Inconnu - Genre : N/A\n"
+"\t\t\t\n"
+"\t\t\tTODO : ce texte"
+
+#: src-en/data/events_special_storage.xml.append:129
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:139
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice/text"
+msgstr "Cherchez Bill."
+
+#: src-en/data/events_special_storage.xml.append:146
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
+"append:choice/text"
+msgstr "Croissance Acide."
+
+#: src-en/data/events_special_storage.xml.append:153
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/text"
+msgstr "Vous consultez le menu du labo pour : [CROISSANCE ACIDE]"
+
+#: src-en/data/events_special_storage.xml.append:155
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[@req=\"LAB_OE_ACID_REPAIR\"]/text"
+msgstr ""
+"Actuellement installé : Procédures de réparation de fractures.\n"
+"\t\t[Équipage acide récupère 6,4 pv/s s'il n'est pas blessé pendant 5 secondes]"
+
+#: src-en/data/events_special_storage.xml.append:160
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[@req=\"LAB_OE_ACID_SENSOR\"]/text"
+msgstr ""
+"Actuellement installé : Capteurs polarisés.\n"
+"\t\t[Équipage acide devient immunisé à l'étourdissement]"
+
+#: src-en/data/events_special_storage.xml.append:165
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[@req=\"LAB_OE_ACID_COOLING\"]/text"
+msgstr ""
+"Actuellement installé : Gaz obscurcissant.\n"
+"\t\t[Tout membre d'équipage non-acide dans du Gaz Acide inflige 0,5x dégâts de combat]"
+
+#: src-en/data/events_special_storage.xml.append:170
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[4]/text"
+msgstr "Actuellement installé : Aucun"
+
+#: src-en/data/events_special_storage.xml.append:174
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[5]/text"
+msgstr ""
+"Pri : Procédures de réparation de fractures. [Une amélioration est déjà "
+"installée]"
+
+#: src-en/data/events_special_storage.xml.append:178
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[6]/text"
+msgstr "Pri : Procédures de réparation de fractures. [Coût : 5|]"
+
+#: src-en/data/events_special_storage.xml.append:182
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[7]/text"
+msgstr "Pri : Capteurs polarisés. [Une amélioration est déjà installée]"
+
+#: src-en/data/events_special_storage.xml.append:186
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[8]/text"
+msgstr "Pri : Capteurs polarisés. [Coût : 5{]"
+
+#: src-en/data/events_special_storage.xml.append:190
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[9]/text"
+msgstr "Pri : Gaz obscurcissant. [Une amélioration est déjà installée]"
+
+#: src-en/data/events_special_storage.xml.append:194
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[10]/text"
+msgstr "Pri : Gaz obscurcissant. [Coût : 40~ 3{]"
+
+#: src-en/data/events_special_storage.xml.append:198
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID\"]/choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_REPAIR\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer la modification Procédures de réparation de fractures.\n"
+"\t[Effets : L'équipage acide récupère 6,4 pv/s s'il n'est pas blessé pendant 5 secondes]\n"
+"\t\n"
+"\t[Attention : Après avoir installé ceci, vous ne pourrez plus installer d'autres améliorations primaires pour l'équipage acide. Vous ne pourrez pas non plus désactiver ce mod.]"
+
+#: src-en/data/events_special_storage.xml.append:210
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_REPAIR\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:212
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_REPAIR\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:217
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_REPAIR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_REPAIR\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_SENSOR\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer la modification Capteurs polarisés.\n"
+"\t[Effets : L'équipage acide devient immunisé à l'étourdissement]\n"
+"\t\n"
+"\t[Attention : Après avoir installé ceci, vous ne pourrez plus installer d'autres améliorations primaires pour l'équipage acide. Vous ne pourrez pas non plus désactiver ce mod.]"
+
+#: src-en/data/events_special_storage.xml.append:239
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_SENSOR\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:241
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_SENSOR\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:246
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_SENSOR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:252
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_SENSOR\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:264
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_COOLING\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer la modification Gaz obscurcissant.\n"
+"\t[Effets : Tout membre d'équipage non-acide dans du Gaz Acide inflige 0,5x dégâts de combat]\n"
+"\t\n"
+"\t[Attention : Après avoir installé ceci, vous ne pourrez plus installer d'autres améliorations primaires pour l'équipage acide. Vous ne pourrez pas non plus désactiver ce mod.]"
+
+#: src-en/data/events_special_storage.xml.append:269
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_COOLING\"]/choice[1]/text"
+msgstr "Installez la modification. [Coût : 40~ 3{]"
+
+#: src-en/data/events_special_storage.xml.append:271
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_COOLING\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:277
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_COOLING\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:283
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_OE_ACID_COOLING\"]/choice[@req=\"pilot\"]/text"
+msgstr ""

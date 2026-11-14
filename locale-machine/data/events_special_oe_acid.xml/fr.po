@@ -1,0 +1,2456 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_oe_acid.xml:10
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_START_OE_ACID\"]/text[1]"
+msgstr ""
+"La Croissance Acide est une faction relativement inconnue. Cependant, ce qui"
+" n'est pas inconnu, c'est à quel point elle est dangereuse."
+
+#: src-en/data/events_special_oe_acid.xml:11
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_START_OE_ACID\"]/text[2]"
+msgstr ""
+"Cette nébuleuse abrite la Croissance Acide. On ignore encore s'il s'agit "
+"d'une entité singulière presque omniprésente ou d'une sorte d'esprit de "
+"ruche, mais vous ne voulez probablement pas être dans leur mauvais camp."
+
+#: src-en/data/events_special_oe_acid.xml:12
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_START_OE_ACID\"]/text[3]"
+msgstr ""
+"On vous dit que la Croissance Acide s'est étendue dans cette nébuleuse. "
+"Malheureusement, seules les Orchidée sont les bienvenues dans l'espace "
+"acide."
+
+#: src-en/data/events_special_oe_acid.xml:13
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_START_OE_ACID\"]/text[4]"
+msgstr ""
+"On ne sait pas grand-chose sur la façon dont la Croissance Acide vit et "
+"passe son temps. Peut-être le découvrirez-vous. La question est de savoir si"
+" vous aurez assez de chance pour survivre et raconter l'histoire."
+
+#: src-en/data/events_special_oe_acid.xml:14
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_START_OE_ACID\"]/text[5]"
+msgstr ""
+"La Croissance Acide s'est formée au sein d'une nébuleuse comme celle-ci. "
+"Bien qu'capable de survivre à nu dans la nébuleuse, la Croissance Acide a "
+"créé ses propres vaisseaux et technologies afin d'interagir avec l'univers "
+"plus vaste."
+
+#: src-en/data/events_special_oe_acid.xml:29
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"START_OE_ACID\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:35
+msgid "data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/text"
+msgstr ""
+"Vous êtes contacté par un vaisseau acide. \"Toi, étranger. Tes intentions, "
+"nous ne savons pas. Menace potentielle pour la Croissance Acide. Preuve, tu "
+"n'es pas ? Sinon, extermination.\""
+
+#: src-en/data/events_special_oe_acid.xml:37
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[1]/text"
+msgstr "Frayez-vous un chemin !"
+
+#: src-en/data/events_special_oe_acid.xml:39
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:42
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:48
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[2]/text"
+msgstr "Convainquez-le que vous n'avez que de bonnes intentions."
+
+#: src-en/data/events_special_oe_acid.xml:50
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[2]/event/text"
+msgstr "La Croissance Acide reconnaît votre don et vous laisse passer."
+
+#: src-en/data/events_special_oe_acid.xml:57
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"rep_comb_oe_acid_orchid\"]/text"
+msgstr "(Réputation Cueillette-Croissance positive) Demandez l'entrée."
+
+#: src-en/data/events_special_oe_acid.xml:59
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/text"
+msgstr ""
+"La Croissance Acide vous reconnaît comme un allié. Vous êtes libre d'entrer."
+
+#: src-en/data/events_special_oe_acid.xml:63
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"oe_acid_worker\"]/text"
+msgstr "(Travailleur acide) Entrez librement."
+
+#: src-en/data/events_special_oe_acid.xml:65
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"oe_acid_worker\"]/event/text"
+msgstr ""
+"La Croissance Acide est accueillante envers elle-même. Vous êtes libre "
+"d'entrer."
+
+#: src-en/data/events_special_oe_acid.xml:69
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"oe_acid_soldier\"]/text"
+msgstr "(Soldat acide) Entrez librement."
+
+#: src-en/data/events_special_oe_acid.xml:71
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"oe_acid_soldier\"]/event/text"
+msgstr ""
+"La Croissance Acide est accueillante envers elle-même. Une fois qu'ils "
+"remarquent que votre équipage est d'un rang élevé, ils font également don de"
+" quelques fournitures et vous notent comme un allié connu."
+
+#: src-en/data/events_special_oe_acid.xml:77
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"orchid\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:79
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"orchid\"]/event/text"
+msgstr ""
+"Votre Orchidée contacte le vaisseau acide, cependant avant qu'ils puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \"Un des dignes de "
+"confiance, à bord. Nous t'accueillons. Notre espace, le tien.\""
+
+#: src-en/data/events_special_oe_acid.xml:83
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"orchid_caretaker\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:85
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"orchid_caretaker\"]/event/text"
+msgstr ""
+"Votre Orchidée contacte le vaisseau acide, cependant avant qu'ils puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \"Un des dignes de "
+"confiance, à bord. Nous t'accueillons. Notre espace, le tien.\" Voyant que "
+"votre Orchidée est un Veilleur sous le Grand Jardinier, ils vous notent "
+"également comme un allié connu."
+
+#: src-en/data/events_special_oe_acid.xml:90
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"orchid_praetor\"]/text"
+msgstr "(Équipage Prétorien) Demandez le passage."
+
+#: src-en/data/events_special_oe_acid.xml:92
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"orchid_praetor\"]/event/text"
+msgstr ""
+"Votre Prétorien contacte le vaisseau acide, cependant avant qu'ils puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \"Un des dignes de "
+"confiance, à bord. Raison, diplomatie ? S'il te plaît accepte donation.\" "
+"Vous êtes libre d'entrer."
+
+#: src-en/data/events_special_oe_acid.xml:98
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"unique_mayeb\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:100
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"unique_mayeb\"]/event/text"
+msgstr ""
+"Vous mettez Mayeb sur les communications, cependant avant qu'elle puisse "
+"dire quoi que ce soit, elle reçoit une réponse. \"Grand Jardinier. Nous te "
+"reconnaissons, allié. Ta voix, pour nous, belle. S'il te plaît accepte "
+"donation.\" Vous êtes libre d'entrer."
+
+#: src-en/data/events_special_oe_acid.xml:106
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"unique_tyerel\"]/text"
+msgstr "(Ty E'rel) Demandez le passage."
+
+#: src-en/data/events_special_oe_acid.xml:108
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"unique_tyerel\"]/event/text"
+msgstr ""
+"Ty s'avance, se portant volontaire pour parler avec la Croissance Acide. "
+"\"Je suis Ty E'rel. Vous devriez savoir qu'attaquer ce vaisseau serait un "
+"acte de guerre. Je suggère que vous accordiez l'entrée, conformément à "
+"l'accord Cueillette-Croissance, les Orchidée sont libres de passer par "
+"l'espace de la Croissance Acide et vice versa.\" Le Soldat à l'écran "
+"s'excuse et vous donne quelques fournitures avant que vous ne partiez."
+
+#: src-en/data/events_special_oe_acid.xml:114
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+"(Contrôle Mental) C'est difficile de contrôler l'esprit de quelque chose "
+"dont vous n'êtes même pas sûr qu'il ait un esprit, du moins un assez petit "
+"pour être contrôlé."
+
+#: src-en/data/events_special_oe_acid.xml:118
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:122
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:126
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:138
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:141
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:146
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_DEADCREW\"]/text"
+msgstr ""
+"Vous avez vaincu la garde acide. Sans aucun Croissance Acide à bord pour "
+"vous arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une arme"
+" à ramener au vaisseau, et passez à la récupération de leur coque."
+
+#: src-en/data/events_special_oe_acid.xml:150
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:163
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_FOLLOWUP\"]/text"
+msgstr ""
+"En tuant la garde acide, vous avez sans aucun doute provoqué l'envoi de "
+"renforts pour vous traquer. Surveillez vos pas pendant que vous explorez le "
+"secteur."
+
+#: src-en/data/events_special_oe_acid.xml:172
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:176
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACID_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:184
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACID\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:185
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACID\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:186
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACID\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:188
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACID\"]/text"
+msgstr ""
+"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
+"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
+"vous arrêter."
+
+#: src-en/data/events_special_oe_acid.xml:192
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACID\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:200
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACID\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:201
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACID\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:202
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACID\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:204
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACID\"]/text"
+msgstr ""
+"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
+"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
+"vous arrêter."
+
+#: src-en/data/events_special_oe_acid.xml:209
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACID\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:221
+msgid "data/events_special_oe_acid.xml$//event[@name=\"START_OE_ACIDHOME\"]/text"
+msgstr ""
+"Il est risqué de s'aventurer si profondément en territoire acide. La "
+"Croissance Acide est originaire de ce secteur, et elle est très défensive à "
+"son égard. Les méthodes pour entrer qui fonctionneraient sur ses territoires"
+" plus récents ne fonctionneront pas ici."
+
+#: src-en/data/events_special_oe_acid.xml:228
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"START_OE_ACIDHOME\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:234
+msgid "data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/text"
+msgstr ""
+"La garde d'élite ici vous envoie un message bref et direct. \"Étranger. Cet "
+"espace, est le nôtre. Fais demi-tour.\""
+
+#: src-en/data/events_special_oe_acid.xml:236
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:238
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[1]/event/text"
+msgstr "Vous coupez les communications et vous préparez à attaquer."
+
+#: src-en/data/events_special_oe_acid.xml:241
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:247
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[2]/text"
+msgstr "Suggérez un pot-de-vin monétaire."
+
+#: src-en/data/events_special_oe_acid.xml:249
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[2]/event/text"
+msgstr ""
+"\"Sécurité, est absolue. Extermination, requise.\" Il semble que vous ne "
+"puissiez pas amadouer ces gars-là."
+
+#: src-en/data/events_special_oe_acid.xml:252
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:258
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"rep_comb_oe_acid_orchid\"]/text"
+msgstr "(Réputation Cueillette-Croissance positive) Demandez l'entrée."
+
+#: src-en/data/events_special_oe_acid.xml:260
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/text"
+msgstr ""
+"Vous vous êtes fait un nom parmi la Croissance Acide... même s'il n'est pas "
+"exactement clair s'il s'agit de consciences différentes ou toutes d'un seul "
+"tout uni. Ils vous laissent entrer."
+
+#: src-en/data/events_special_oe_acid.xml:264
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"oe_acid_worker\"]/text"
+msgstr "(Travailleur acide) Demandez l'entrée."
+
+#: src-en/data/events_special_oe_acid.xml:266
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"oe_acid_worker\"]/event/text"
+msgstr ""
+"Il faut un peu de temps au garde pour répondre. \"Nous, sur vaisseau inconnu"
+" ? Ne pouvons pas faire confiance. Otage, possibilité. Extermination, "
+"requise. Nous, collectés après.\" C'est vrai, ces gars peuvent survivre dans"
+" l'espace extra-atmosphérique. Vous ne pouvez pas, donc vous feriez mieux de"
+" commencer à vous battre."
+
+#: src-en/data/events_special_oe_acid.xml:269
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"oe_acid_worker\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:275
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"oe_acid_soldier\"]/text"
+msgstr "(Soldat acide) Demandez l'entrée."
+
+#: src-en/data/events_special_oe_acid.xml:277
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"oe_acid_soldier\"]/event/text"
+msgstr ""
+"Il faut un peu de temps au garde pour répondre. \"Nous, sur vaisseau inconnu"
+" ? Rang élevé. Otage, possibilité, minimale. Excuse-nous.\" Vous êtes libre "
+"d'entrer, et la Croissance vous note comme un allié connu."
+
+#: src-en/data/events_special_oe_acid.xml:282
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:284
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid\"]/event/text"
+msgstr ""
+"Il faut un peu de temps au garde pour répondre. \"Allié, Orchidée ? Vaisseau"
+" inconnu. Allié, peut-être pas. Opération pirate, possible. Extermination, "
+"requise.\" Vous vous préparez à vous défendre."
+
+#: src-en/data/events_special_oe_acid.xml:287
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:293
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:295
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/event/text"
+msgstr ""
+"Il faut un peu de temps au garde pour répondre. \"Allié, Orchidée ? Vaisseau"
+" inconnu, mais... sous Grand Jardinier, signifie allié. Excuse-nous.\" Vous "
+"êtes libre d'entrer."
+
+#: src-en/data/events_special_oe_acid.xml:299
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/text"
+msgstr "(Équipage Prétorien) Demandez le passage."
+
+#: src-en/data/events_special_oe_acid.xml:301
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/event/text"
+msgstr ""
+"Il faut un peu de temps au garde pour répondre. \"Allié, Orchidée ? Rang "
+"élevé. Mission diplomatique ? Excuse-nous.\" Vous êtes libre d'entrer, et la"
+" Croissance vous note comme un allié connu pour fournir un voyage plus sûr."
+
+#: src-en/data/events_special_oe_acid.xml:306
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:308
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/event/text"
+msgstr ""
+"Mayeb va sur les communications, \"Nos intentions sont pacifiques. Nous voulons juste traverser le secteur. J'espère que vous me reconnaissez ; j'aimerais éviter la confrontation.\"\n"
+"\n"
+"\"Grand Jardinier ? Bienvenue, allié. Excusez-nous. Veuillez accepter donation.\" Vous êtes libre d'entrer."
+
+#: src-en/data/events_special_oe_acid.xml:317
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/text"
+msgstr "(Ty E'rel) Demandez le passage."
+
+#: src-en/data/events_special_oe_acid.xml:319
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/event/text"
+msgstr ""
+"Ty va sur les communications, \"Mon nom est Ty E'rel. Je suggère que vous "
+"n'attaquiez pas ce vaisseau, ou l'Alliance Cueillette-Croissance pourrait "
+"faire face à... des difficultés. Nous ne faisons que passer.\" La Croissance"
+" s'excuse et envoie quelques fournitures."
+
+#: src-en/data/events_special_oe_acid.xml:325
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+"(Contrôle Mental) C'est difficile de contrôler l'esprit de quelque chose "
+"dont vous n'êtes même pas sûr qu'il ait un esprit, du moins un assez petit "
+"pour être contrôlé."
+
+#: src-en/data/events_special_oe_acid.xml:329
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:333
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:337
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:412
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:415
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:420
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_DEADCREW\"]/text"
+msgstr ""
+"Vous avez vaincu la garde acide. Sans la Croissance Acide à bord pour vous "
+"arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une arme à "
+"ramener au vaisseau, et passez à la récupération de leur coque."
+
+#: src-en/data/events_special_oe_acid.xml:424
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:434
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR_DESTROY\"]/text"
+msgstr ""
+"Vous avez vaincu le vaisseau Prétorien. Vous pouvez maintenant récupérer les"
+" deux vaisseaux."
+
+#: src-en/data/events_special_oe_acid.xml:437
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:452
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/text"
+msgstr ""
+"Avant même que vous ne puissiez finir de récupérer, un vaisseau Prétorien "
+"saute sur place. Oh oh."
+
+#: src-en/data/events_special_oe_acid.xml:454
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:456
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/text"
+msgstr ""
+"Le vaisseau Orchidée vous contacte. \"Fédération ? Pourriez-vous aimablement"
+" expliquer ce qui s'est passé ici ? Nous avons reçu un appel de détresse "
+"venant de la garde, et maintenant nous trouvons la garde neutralisée et vous"
+" en train de récupérer l'épave. Vous comprenez à quoi cela ressemble, n'est-"
+"ce pas ?\""
+
+#: src-en/data/events_special_oe_acid.xml:458
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/choice[1]/text"
+msgstr "Nous avons été attaqués en premier."
+
+#: src-en/data/events_special_oe_acid.xml:462
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/choice[2]/text"
+msgstr "Vous n'avez pas besoin de savoir ce qui s'est passé."
+
+#: src-en/data/events_special_oe_acid.xml:464
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/choice[2]/event/text"
+msgstr ""
+"\"Avec ça... nous pourrions regarder ailleurs, oui. Juste cette fois-ci. "
+"Hors de ma vue, avant que je ne change d'avis.\" Vous finissez par devoir "
+"abandonner l'épave acide."
+
+#: src-en/data/events_special_oe_acid.xml:469
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:475
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/choice[3]/text"
+msgstr "Nous les avons tués, et vous êtes les prochains."
+
+#: src-en/data/events_special_oe_acid.xml:477
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-1\"]/event/choice[3]/event/text"
+msgstr ""
+"\"Je... je ne sais pas si c'est plus répréhensible ou edgy.\" Le vaisseau "
+"Prétorien s'avance pour attaquer."
+
+#: src-en/data/events_special_oe_acid.xml:485
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:487
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"Il semble que vos crimes passés vous aient rattrapés. Le vaisseau Orchidée "
+"ne prend pas la peine de vous contacter, et s'avance pour attaquer."
+
+#: src-en/data/events_special_oe_acid.xml:490
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_PRAETOR\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:499
+msgid ""
+"data/events_special_oe_acid.xml$//eventList[@name=\"GUARD_OE_ACIDHOME_PRAETOR_LIST\"]/event[1]/text"
+msgstr ""
+"L'Orchidée hésite. \"Je... je suppose que je vous crois. Quelles affaires "
+"avez-vous même ici ?\""
+
+#: src-en/data/events_special_oe_acid.xml:501
+msgid ""
+"data/events_special_oe_acid.xml$//eventList[@name=\"GUARD_OE_ACIDHOME_PRAETOR_LIST\"]/event[1]/choice/text"
+msgstr "Expliquez votre mission."
+
+#: src-en/data/events_special_oe_acid.xml:503
+msgid ""
+"data/events_special_oe_acid.xml$//eventList[@name=\"GUARD_OE_ACIDHOME_PRAETOR_LIST\"]/event[1]/choice/event/text"
+msgstr ""
+"\"Donc vous ne faites que passer ? Il est regrettable que cette rencontre "
+"ait dû avoir lieu. Nous vous laisserons partir.\" Ils vous donnent également"
+" quelques fournitures pour la route à venir."
+
+#: src-en/data/events_special_oe_acid.xml:506
+msgid ""
+"data/events_special_oe_acid.xml$//eventList[@name=\"GUARD_OE_ACIDHOME_PRAETOR_LIST\"]/event[1]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:513
+msgid ""
+"data/events_special_oe_acid.xml$//eventList[@name=\"GUARD_OE_ACIDHOME_PRAETOR_LIST\"]/event[2]/text"
+msgstr ""
+"\"Histoire probable. Nous allons vous faire détenir maintenant. Ne résistez "
+"pas.\" Vous n'avez pas le temps pour ça."
+
+#: src-en/data/events_special_oe_acid.xml:526
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_FOLLOWUP\"]/text"
+msgstr ""
+"En tuant la garde acide, vous avez sans aucun doute provoqué l'envoi de "
+"renforts pour vous traquer. Surveillez vos pas pendant que vous explorez le "
+"secteur."
+
+#: src-en/data/events_special_oe_acid.xml:528
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:532
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GUARD_OE_ACIDHOME_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:540
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACIDHOME\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:541
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACIDHOME\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:542
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACIDHOME\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:544
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACIDHOME\"]/text"
+msgstr ""
+"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
+"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
+"vous arrêter."
+
+#: src-en/data/events_special_oe_acid.xml:548
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"REINFORCEMENTS_OE_ACIDHOME\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:556
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACIDHOME\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:557
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACIDHOME\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:558
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACIDHOME\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:560
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACIDHOME\"]/text"
+msgstr ""
+"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
+"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
+"vous arrêter."
+
+#: src-en/data/events_special_oe_acid.xml:565
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_OE_ACIDHOME\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:620
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/text"
+msgstr ""
+"Cette balise est occupée par le trafic Acide et de la Cueillette, le tout "
+"centré autour d'une station de Croissance. Les Orchidée sont vos alliés, il "
+"ne sera donc pas difficile d'obtenir l'accès et la capacité de commercer."
+
+#: src-en/data/events_special_oe_acid.xml:622
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/text"
+msgstr "Demandez l'accès."
+
+#: src-en/data/events_special_oe_acid.xml:624
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/text"
+msgstr ""
+"Vous êtes accueilli par une Orchidée élégante qui explique qu'il ne s'agit "
+"pas seulement d'un centre commercial, mais aussi d'un point diplomatique. Si"
+" vous avez une bonne position personnelle avec l'une ou l'autre des "
+"factions, vous pouvez demander du soutien."
+
+#: src-en/data/events_special_oe_acid.xml:626
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[1]/text"
+msgstr ""
+"(Réputation Orchidée positive) Demandez une arme à Bulbe à prix réduit."
+
+#: src-en/data/events_special_oe_acid.xml:628
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[1]/event/text"
+msgstr ""
+"Après le paiement, un groupe d'Orchidées apporte votre nouvelle arme. Vous "
+"passez au magasin."
+
+#: src-en/data/events_special_oe_acid.xml:637
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[2]/text"
+msgstr ""
+"(Réputation Orchidée positive élevée) Demandez un contrat de soldat Orchidée"
+" entraîné."
+
+#: src-en/data/events_special_oe_acid.xml:639
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[2]/event/text"
+msgstr ""
+"Après avoir payé et signé le contrat, un Prétorien Orchidée monte à bord "
+"pour rejoindre votre équipage. Vous passez au magasin."
+
+#: src-en/data/events_special_oe_acid.xml:648
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"rep_oe_acid\" and @lvl=\"1\"]/text"
+msgstr "(Réputation acide positive) Demandez une arme acide à prix réduit."
+
+#: src-en/data/events_special_oe_acid.xml:650
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"rep_oe_acid\" and "
+"@lvl=\"1\"]/event/text"
+msgstr ""
+"Après le paiement, un groupe de Travailleurs acides apporte votre nouvelle "
+"arme. Vous passez au magasin."
+
+#: src-en/data/events_special_oe_acid.xml:659
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"rep_oe_acid\" and @lvl=\"3\"]/text"
+msgstr ""
+"(Réputation acide positive élevée) Demandez un contrat de construct acide "
+"construit militairement."
+
+#: src-en/data/events_special_oe_acid.xml:661
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"rep_oe_acid\" and "
+"@lvl=\"3\"]/event/text"
+msgstr ""
+"Après avoir payé et signé le contrat, un Soldat acide monte à bord pour "
+"rejoindre votre équipage. Vous passez au magasin."
+
+#: src-en/data/events_special_oe_acid.xml:671
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[5]/text"
+msgstr "Passez simplement au magasin."
+
+#: src-en/data/events_special_oe_acid.xml:677
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/text"
+msgstr "Demandez l'accès."
+
+#: src-en/data/events_special_oe_acid.xml:679
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/text"
+msgstr ""
+"La station refuse tout appel ; il semble qu'ils aient eu vent de votre "
+"réputation. Vous êtes gravement surpassé en nombre, donc votre seul choix "
+"est de passer votre chemin."
+
+#: src-en/data/events_special_oe_acid.xml:681
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:685
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:691
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[3]/text"
+msgstr "Passez."
+
+#: src-en/data/events_special_oe_acid.xml:693
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[3]/event/text"
+msgstr "Vous décidez d'utiliser ce moment de répit pour faire autre chose."
+
+#: src-en/data/events_special_oe_acid.xml:695
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:699
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"STOREEVENT_OE_ACID_ORCHID\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:713
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/text"
+msgstr "Il semble que la Croissance Acide ait installé un magasin ici."
+
+#: src-en/data/events_special_oe_acid.xml:715
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/text"
+msgstr "Contactez."
+
+#: src-en/data/events_special_oe_acid.xml:717
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/text"
+msgstr ""
+"Un Soldat acide vous autorise à vous amarrer. La station regorge de "
+"Travailleurs, et vous en bousculez plusieurs en cherchant un kiosque ouvert."
+" Les ingénieurs locaux suggèrent, pour un prix, soit d'améliorer, soit de "
+"démanteler votre système de survie."
+
+#: src-en/data/events_special_oe_acid.xml:719
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[1]/text"
+msgstr "Améliorez le système de survie."
+
+#: src-en/data/events_special_oe_acid.xml:721
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[1]/event/text"
+msgstr ""
+"Pendant que le système est amélioré, vous avez le temps de faire vos "
+"courses."
+
+#: src-en/data/events_special_oe_acid.xml:730
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"oxygen\" and @lvl=\"2\"]/text"
+msgstr "Améliorez le système de survie."
+
+#: src-en/data/events_special_oe_acid.xml:732
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"oxygen\" and @lvl=\"2\"]/event/text"
+msgstr ""
+"Pendant que le système est amélioré, vous avez le temps de faire vos "
+"courses."
+
+#: src-en/data/events_special_oe_acid.xml:741
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[3]/text"
+msgstr "Démantelez le système de survie."
+
+#: src-en/data/events_special_oe_acid.xml:743
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[3]/event/text"
+msgstr ""
+"Pendant que votre système est en cours de démantèlement, vous avez le temps "
+"de faire vos courses. Peut-être prendre quelques masques à oxygène, juste "
+"pour être sûr."
+
+#: src-en/data/events_special_oe_acid.xml:752
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/text"
+msgstr ""
+"(Réputation Cueillette-Croissance positive) Demandez s'ils ont quelque chose"
+" de spécial."
+
+#: src-en/data/events_special_oe_acid.xml:754
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/text"
+msgstr ""
+"L'un des ingénieurs acides se redresse. \"Étranger, veut spécial ? Habituellement, ne partageons pas librement. Étranger, un allié : permission accordée. Suivez-nous.\"\n"
+"Le Travailleur vous mène plus loin dans le stockage, vers une étrange Orchidée vêtue d'une blouse de laboratoire. Elle semble hériter des traits à la fois des Orchidée et des Vampiflores ; ce n'est pas quelque chose que vous voyez fréquemment."
+
+#: src-en/data/events_special_oe_acid.xml:757
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and "
+"@lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/choice/text"
+msgstr "Toussez pour attirer leur attention."
+
+#: src-en/data/events_special_oe_acid.xml:759
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and "
+"@lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/choice/event/text"
+msgstr ""
+"\"Unité 102, quelle est la rais- oh, je vois qu'il y a des invités. J'en "
+"déduis que nous pouvons leur faire confiance ?\" Le Travailleur imite un "
+"geste d'affirmation. \"D'accord, d'accord. Je suppose que vous êtes ici pour"
+" faire installer un système de Floraison Vitale ? C'est un produit des "
+"relations étroites entre la Cueillette et la Croissance. Ne vous inquiétez "
+"pas, pour les amis, c'est gratuit. Assurez-vous juste de ne pas avoir besoin"
+" de votre système de survie, car ils ne sont pas compatibles - l'air "
+"respirable humain ordinaire n'est pas le meilleur pour la Floraison.\""
+
+#: src-en/data/events_special_oe_acid.xml:761
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and "
+"@lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/choice/event/choice[@req=\"oe_growth\""
+" and @lvl=\"1\"]/text"
+msgstr "Vous avez déjà le système de Floraison Vitale."
+
+#: src-en/data/events_special_oe_acid.xml:765
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and "
+"@lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/choice/event/choice[@req=\"oe_growth\""
+" and @lvl=\"0\"]/text"
+msgstr "Installez le système de Floraison Vitale."
+
+#: src-en/data/events_special_oe_acid.xml:767
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and "
+"@lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/choice/event/choice[@req=\"oe_growth\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"\"Ah, merveilleux. Continuez vos courses, nous installerons le système en "
+"attendant\"."
+
+#: src-en/data/events_special_oe_acid.xml:773
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and "
+"@lvl=\"-2\"]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/choice/event/choice[3]/text"
+msgstr "Refusez poliment."
+
+#: src-en/data/events_special_oe_acid.xml:781
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-2\"]/event/choice[5]/text"
+msgstr "Faites juste vos courses."
+
+#: src-en/data/events_special_oe_acid.xml:787
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/text"
+msgstr "Contactez."
+
+#: src-en/data/events_special_oe_acid.xml:789
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/text"
+msgstr ""
+"La station refuse tout appel. Il semble que la Croissance ne soit pas "
+"satisfaite de vous."
+
+#: src-en/data/events_special_oe_acid.xml:791
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:793
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[1]/event/text"
+msgstr "Vous décidez de les transformer en ferraille à la place."
+
+#: src-en/data/events_special_oe_acid.xml:799
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[2]/text"
+msgstr "Passez votre chemin."
+
+#: src-en/data/events_special_oe_acid.xml:801
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[2]/event/text"
+msgstr "Vous passez votre chemin, déçu."
+
+#: src-en/data/events_special_oe_acid.xml:803
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:807
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:815
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:817
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[3]/event/text"
+msgstr ""
+"La Croissance Acide volait vraiment agressivement, euh, là-bas et ne faisait"
+" rien ? Ouais, ce n'est pas vraiment justifié. Néanmoins, vous donnez "
+"l'ordre d'attaquer."
+
+#: src-en/data/events_special_oe_acid.xml:823
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[4]/text"
+msgstr "Passez votre chemin."
+
+#: src-en/data/events_special_oe_acid.xml:825
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[4]/event/text"
+msgstr "Vous n'avez pas besoin de faire vos courses en ce moment."
+
+#: src-en/data/events_special_oe_acid.xml:827
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:831
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_NO2\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:851
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/text"
+msgstr ""
+"Cette balise est bombardée de publicités pour une vente d'urgence dans un "
+"magasin voisin. Les publicités semblent alléchantes, mais désespérées."
+
+#: src-en/data/events_special_oe_acid.xml:853
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[1]/text"
+msgstr "Approchez du magasin."
+
+#: src-en/data/events_special_oe_acid.xml:855
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[1]/event/text"
+msgstr ""
+"Vous contactez le magasin, et un jeune homme humain en tenue douteuse "
+"apparaît à l'écran. \"Hééé, l'ami ! Bienvenue dans mon magasin ! J'ai tout "
+"pour tes besoins en acide - injecteurs d'acide, extracteurs d'acide, tubes "
+"d'acide, et même des disjoncteurs d'acide ! Tout à moitié prix, bien sûr, "
+"comme annoncé.\" Il sourit faiblement."
+
+#: src-en/data/events_special_oe_acid.xml:857
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[1]/event/choice/text"
+msgstr "As-tu quelque chose... de plus utile ?"
+
+#: src-en/data/events_special_oe_acid.xml:859
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"\"Ah, zut.\" Il baisse la tête. \"J'espérais que tu ne serais pas un de ces "
+"accros à la bataille.\" L'homme est silencieux un moment. \"Mais oui, oui, "
+"j'en ai. Pas beaucoup, cependant - j'ai vendu la plupart des choses pour "
+"acheter l'équipement acide dès que j'ai découvert qu'il y avait une "
+"nébuleuse acide ici.\" Il se gratte la tête et sa voix monte dans les aigus."
+" \"J'ai p-p-peut-être mal compris le genre d' 'acide' dont cette nébuleuse "
+"était faite, donc j'essaie juste de vendre l'équipement aussi vite que "
+"possible. Toujours est-il, j'ai les marchandises habituelles. Tiens, jette "
+"un œil.\""
+
+#: src-en/data/events_special_oe_acid.xml:866
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[2]/text"
+msgstr "Ignorez le magasin."
+
+#: src-en/data/events_special_oe_acid.xml:868
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[2]/event/text"
+msgstr "Vous décidez que les ventes douteuses ne sont pas pour vous."
+
+#: src-en/data/events_special_oe_acid.xml:870
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:874
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STOREEVENT_OE_ACID_CIVILIAN\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:885
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"Un emplacement non visité. Cette balise est située au sein de la Croissance "
+"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:886
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:887
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:890
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/text"
+msgstr ""
+"Vous arrivez à une balise enveloppée dans une épaisse nébuleuse acide. La "
+"seule chose discernable est une lumière vacillante non loin, qui semble "
+"également être l'endroit d'où vient un appel."
+
+#: src-en/data/events_special_oe_acid.xml:892
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/text"
+msgstr "Écoutez-les."
+
+#: src-en/data/events_special_oe_acid.xml:894
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/text"
+msgstr ""
+"\"Ceci est une publicité. Vente urgente. Équipement de la Croissance Acide. "
+"Tous les organismes et/ou machines sont les bienvenus. Ceci est la fin de la"
+" publicité.\""
+
+#: src-en/data/events_special_oe_acid.xml:896
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[1]/text"
+msgstr "Qu'as-tu ?"
+
+#: src-en/data/events_special_oe_acid.xml:900
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/text"
+msgstr ""
+"(Réputation Cueillette-Croissance positive) Demandez s'ils ont quelque chose"
+" de spécial."
+
+#: src-en/data/events_special_oe_acid.xml:902
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\"]/event/text"
+msgstr ""
+"\"Renégat. Ami de la Croissance. Prends arme. Offert par la maison.\" Le "
+"vaisseau vous transfère une arme gratuite."
+
+#: src-en/data/events_special_oe_acid.xml:908
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/text"
+msgstr "On dirait que tu ne vois pas beaucoup de clients."
+
+#: src-en/data/events_special_oe_acid.xml:910
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+"Le vaisseau met un moment à répondre. \"Plus vrai que préféré. Longtemps. "
+"Pas de clients. Besoin d'aller au chantier spatial. À la place, j'attends.\""
+
+#: src-en/data/events_special_oe_acid.xml:912
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr "Peut-être qu'on peut aider."
+
+#: src-en/data/events_special_oe_acid.xml:914
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/text"
+msgstr ""
+"\"Tu peux aider. Aider à faire de la publicité.\" Le vaisseau vous transfère"
+" une liste de publicités possibles - chacune moins attrayante que la "
+"précédente."
+
+#: src-en/data/events_special_oe_acid.xml:916
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/text"
+msgstr "Essayons à l'improvisation."
+
+#: src-en/data/events_special_oe_acid.xml:918
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Vous passez un moment à diffuser divers types de publicités - des "
+"infopublicités sur les avantages de l'armement acide, aux menaces de "
+"violence à peine voilées envers quiconque ne s'arrête pas pour faire des "
+"achats."
+
+#: src-en/data/events_special_oe_acid.xml:921
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:923
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"Avec les idées de publicités les plus douces s'avérant plus fiables, le magasin de la Croissance obtient quelques clients, ce qui est quelques-uns de plus qu'il n'en avait sans votre intervention. D'autres idées, telles que les menaces de mort et une reprise sur le thème du magasin d'une chanson populaire, n'ont pas aussi bien fonctionné, bien qu'un client ait trouvé son chemin vers le magasin après une publicité particulièrement remplie d'insultes sur les dangers de ne pas avoir assez d'armes.\n"
+"\n"
+"La Croissance vous remercie d'avoir consacré ce temps pour l'aider, et vous offre une récompense pour vos ennuis."
+
+#: src-en/data/events_special_oe_acid.xml:929
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:935
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:937
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/text"
+msgstr ""
+"Mais peu importe ce que vous essayez, que ce soit chanter à pleins poumons dans le micro ou vous mettre à genoux sur les écrans d'un vaisseau qui passe, personne ne vient au magasin. La plupart expliquent leur refus par le fait que vous avez accumulé une sorte de notoriété dans ces parages, et un gars prétendant qu'il aurait certainement fait des achats \"si votre tronche n'était pas si moche\".\n"
+"\n"
+"Toujours est-il que, malgré votre échec, la Croissance décide que vos efforts sont toujours louables, et propose de pardonner certains de vos péchés en échange."
+
+#: src-en/data/events_special_oe_acid.xml:943
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[1]/event/choice[@req=\"rep_comb_oe_acid_orchid\""
+" and @lvl=\"-9999\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:951
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[2]/text"
+msgstr "Je ne peux pas épargner le temps, désolé."
+
+#: src-en/data/events_special_oe_acid.xml:953
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[1]/event/choice[2]/event/text"
+msgstr "\"Compréhensible. Regrettable.\""
+
+#: src-en/data/events_special_oe_acid.xml:960
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr "Dur."
+
+#: src-en/data/events_special_oe_acid.xml:962
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[3]/event/choice[2]/event/text"
+msgstr "Le vaisseau ne répond pas à la remarque."
+
+#: src-en/data/events_special_oe_acid.xml:969
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[4]/text"
+msgstr "Non merci."
+
+#: src-en/data/events_special_oe_acid.xml:971
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[4]/event/text"
+msgstr "Vous décidez de retourner à la balise."
+
+#: src-en/data/events_special_oe_acid.xml:973
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:977
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[1]/event/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:985
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[2]/text"
+msgstr "Le plus tôt nous sortirons - le mieux ce sera."
+
+#: src-en/data/events_special_oe_acid.xml:987
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[2]/event/text"
+msgstr ""
+"Vous décidez que s'éloigner de la balise dans un tel environnement à faible "
+"visibilité est une mauvaise idée."
+
+#: src-en/data/events_special_oe_acid.xml:989
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:993
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC_STOREEVENT_OE_ACID\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1002
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1013
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1014
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1015
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1018
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/text"
+msgstr ""
+"Cette balise abrite un transporteur acide. Il est prudent de parier que le "
+"vaisseau transporte probablement une technologie spéciale. Si vous pouvez "
+"tuer la croissance acide à bord, la cargaison sera à vous."
+
+#: src-en/data/events_special_oe_acid.xml:1021
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1023
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1029
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1031
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1033
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1037
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_TRANSPORT_OE_ACID_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1044
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_OE_ACID\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1064
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DESTROYED_OE_ACID\"]/text[1]"
+msgstr ""
+"Alors que l'épave dérive et se disloque, vous pouvez tout juste distinguer "
+"les nuages de gaz dérivants qui constituaient officiellement la Croissance "
+"Acide."
+
+#: src-en/data/events_special_oe_acid.xml:1065
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DESTROYED_OE_ACID\"]/text[2]"
+msgstr ""
+"Alors que l'épave se disloque, vous vous demandez si les fragments dispersés"
+" de la Croissance Acide réussiront un jour à revenir dans leurs nébuleuses."
+
+#: src-en/data/events_special_oe_acid.xml:1066
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DESTROYED_OE_ACID\"]/text[3]"
+msgstr ""
+"Vous vous demandez combien de temps il faut à un nuage de gaz sans forme "
+"pour construire un vaisseau spatial. Si la Croissance Acide pouvait être en "
+"colère, elle serait probablement en colère contre vous en ce moment."
+
+#: src-en/data/events_special_oe_acid.xml:1067
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DESTROYED_OE_ACID\"]/text[4]"
+msgstr ""
+"Un autre vaisseau acide détruit, et un autre morceau de la Croissance Acide "
+"bloqué."
+
+#: src-en/data/events_special_oe_acid.xml:1068
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DESTROYED_OE_ACID\"]/text[5]"
+msgstr ""
+"Un jour, la Croissance Acide pourrait tendre la main pour former une "
+"alliance avec la Fédération, vous devrez juste espérer qu'elle oublie tous "
+"les vaisseaux que vous avez détruits."
+
+#: src-en/data/events_special_oe_acid.xml:1069
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DESTROYED_OE_ACID\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1072
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"DESTROYED_OE_ACID_ACIDGUN\"]/text"
+msgstr ""
+"À votre surprise, l'une des armes acides nativement construites a survécu à "
+"l'explosion. Elle est un peu croustillante à cause de l'explosion, mais avec"
+" quelques réparations, vous pouvez la récupérer."
+
+#: src-en/data/events_special_oe_acid.xml:1090
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_OE_ACID\"]/text[1]"
+msgstr ""
+"Vous vous demandez si la Croissance Acide saura le massacre que vous avez "
+"commis ici. Quoi qu'il en soit, cette épave est toujours pleine de "
+"ferraille."
+
+#: src-en/data/events_special_oe_acid.xml:1091
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_OE_ACID\"]/text[2]"
+msgstr ""
+"Maintenant que l'équipage de la Croissance Acide n'est plus que des "
+"fragments diffusés dans le vaisseau, vous passez à la ferraille."
+
+#: src-en/data/events_special_oe_acid.xml:1092
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_OE_ACID\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1093
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_OE_ACID\"]/text[4]"
+msgstr ""
+"Le vaisseau acide a été débarrassé de son équipage. La partie morale de vous"
+" espère que tuer un méca de la Croissance Acide ne compte pas comme un "
+"meurtre."
+
+#: src-en/data/events_special_oe_acid.xml:1094
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_OE_ACID\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1097
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"DEAD_CREW_OE_ACID_ACIDGUN\"]/text"
+msgstr ""
+"Maintenant vidé de son équipage, vous trouvez l'une des armes acides "
+"nativement construites à bord. Vous la reprenez avec vous avant de "
+"ferrailler le vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1106
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_ESCAPE_OE_ACID\"]/text[1]"
+msgstr ""
+"Le vaisseau acide allume ses moteurs et s'éloigne de vous. Il essaie de "
+"s'échapper !"
+
+#: src-en/data/events_special_oe_acid.xml:1107
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_ESCAPE_OE_ACID\"]/text[2]"
+msgstr ""
+"Vous détectez de hauts pics de puissance moteur sur le vaisseau acide. Il "
+"essaie de s'échapper."
+
+#: src-en/data/events_special_oe_acid.xml:1120
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_GOTAWAY_OE_ACID\"]/text[1]"
+msgstr ""
+"Le vaisseau acide s'échappe. Pour être honnête, vous êtes un peu content, "
+"espérons qu'à l'avenir la Croissance Acide n'essaiera pas non plus de vous "
+"oblitérer."
+
+#: src-en/data/events_special_oe_acid.xml:1121
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_GOTAWAY_OE_ACID\"]/text[2]"
+msgstr ""
+"Le vaisseau acide saute au loin. Vous captez des résidus de nuages de gaz "
+"dans la zone, vous vous demandez s'il y a des fragments de la croissance "
+"acide là-bas."
+
+#: src-en/data/events_special_oe_acid.xml:1122
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_GOTAWAY_OE_ACID\"]/text[3]"
+msgstr ""
+"La puissance moteur du vaisseau acide monte encore plus haut et le vaisseau "
+"saute au loin."
+
+#: src-en/data/events_special_oe_acid.xml:1125
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"GOTAWAY_OE_ACID_REMAINS\"]/text"
+msgstr ""
+"Alors que le vaisseau acide saute au loin, vous remarquez une traînée de "
+"ferraille laissée derrière par le vaisseau cassé. Au moins, vous aurez "
+"quelque chose à ferrailler."
+
+#: src-en/data/events_special_oe_acid.xml:1132
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"SURRENDER_OE_ACID\"]/choice[1]/text"
+msgstr "Acceptez sa reddition."
+
+#: src-en/data/events_special_oe_acid.xml:1136
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"SURRENDER_OE_ACID\"]/choice[@req=\"oe_acid_worker\"]/text"
+msgstr "(Travailleur acide) Négociez un accord différent."
+
+#: src-en/data/events_special_oe_acid.xml:1148
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_SURRENDER_OE_ACID\"]/text[1]"
+msgstr ""
+"Une voix monotone vous demande d'arrêter de tirer en échange de quelques "
+"fournitures."
+
+#: src-en/data/events_special_oe_acid.xml:1149
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_SURRENDER_OE_ACID\"]/text[2]"
+msgstr ""
+"Le vaisseau acide se rend. Ils offrent quelques fournitures si vous les "
+"laissez vivre."
+
+#: src-en/data/events_special_oe_acid.xml:1150
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_SURRENDER_OE_ACID\"]/text[3]"
+msgstr "\"L'offre est satisfaisante. Veuillez l'accepter.\""
+
+#: src-en/data/events_special_oe_acid.xml:1151
+msgid ""
+"data/events_special_oe_acid.xml$//textList[@name=\"TEXT_SURRENDER_OE_ACID\"]/text[4]"
+msgstr ""
+"\"Arrêtez de tirer. Vous recevrez une récompense.\" Il semble que le "
+"vaisseau se rende."
+
+#: src-en/data/events_special_oe_acid.xml:1162
+msgid "data/events_special_oe_acid.xml$//event[@name=\"OE_ACID_TEST_FIGHT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1165
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"OE_ACID_TEST_FIGHT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1227
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/text"
+msgstr ""
+"La station vous contacte désespérément. \"D'accord, d'accord ! Nous "
+"relâcherons la Croissance. Arrêtez juste de tirer !\""
+
+#: src-en/data/events_special_oe_acid.xml:1229
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/choice[1]/text"
+msgstr "Arrêtez de tirer."
+
+#: src-en/data/events_special_oe_acid.xml:1232
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/choice[1]/event/text"
+msgstr ""
+"L'Orchidée soupire. \"Maudit soit tout... Oh, rétrogradation, me voilà...\""
+
+#: src-en/data/events_special_oe_acid.xml:1234
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1236
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/choice[1]/event/choice/event/text"
+msgstr ""
+"Pendant que la station Orchidée transporte tous les réservoirs de Croissance"
+" vers le vaisseau acide, ce dernier vous contacte à nouveau. \"Étranger, "
+"gratitude. Orchidées - alliés. Toi - allié. Négociation future, avec alliés,"
+" possible. Accepte ceci.\" Des Travailleurs acides apportent une grande "
+"quantité de ferraille."
+
+#: src-en/data/events_special_oe_acid.xml:1244
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/choice[2]/text"
+msgstr "Pas de deuxième chance."
+
+#: src-en/data/events_special_oe_acid.xml:1246
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/surrender/choice[2]/event/text"
+msgstr ""
+"Vous continuez à tirer sur la station. La Croissance ira probablement bien, "
+"mais ces Orchidée le méritent."
+
+#: src-en/data/events_special_oe_acid.xml:1251
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/destroyed/text"
+msgstr ""
+"La station explose, envoyant des gaz acides partout ! Vous essayez de vous "
+"envoler, mais vous vous faites quand même prendre dedans ; heureusement, les"
+" dégâts ne sont pas graves."
+
+#: src-en/data/events_special_oe_acid.xml:1256
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/destroyed/choice/text"
+msgstr "Contactez la Croissance Acide."
+
+#: src-en/data/events_special_oe_acid.xml:1258
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/destroyed/choice/event/text"
+msgstr ""
+"La Croissance ne semble pas satisfaite - sinon par le ton, au moins par les "
+"mots. \"Étranger. Orchidées, alliés, partis ? Toi, pas un allié.\" Ils "
+"coupent la communication. Au moins, vous pouvez récupérer l'épave de la "
+"station."
+
+#: src-en/data/events_special_oe_acid.xml:1266
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/deadCrew/text"
+msgstr ""
+"Les Orchidée sont morts, et la station est laissée vide - ne contenant que "
+"des réservoirs avec de la Croissance Acide à l'intérieur. Vous ferraillez ce"
+" que vous pouvez."
+
+#: src-en/data/events_special_oe_acid.xml:1269
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/deadCrew/choice/text"
+msgstr "Contactez la Croissance Acide."
+
+#: src-en/data/events_special_oe_acid.xml:1271
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_RESEARCH\"]/deadCrew/choice/event/text"
+msgstr ""
+"La Croissance ne semble pas satisfaite - sinon par le ton, au moins par les "
+"mots. \"Étranger. Orchidées, alliés, partis ? Toi, pas un allié.\" Ils "
+"coupent la communication. Rien à faire à part passer à autre chose."
+
+#: src-en/data/events_special_oe_acid.xml:1283
+msgid ""
+"data/events_special_oe_acid.xml$//triggeredEvent[@name=\"NEBULA_OE_ACID_WEAPON_TEST_COMPLETE_TRIGGER\"]/triggeredEventBox/tooltip"
+msgstr ""
+"La session de test se terminera après ce laps de temps. N'attaquez pas le "
+"vaisseau !"
+
+#: src-en/data/events_special_oe_acid.xml:1293
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"OE_CEALAFORMER_TEST_FAIL\"]/text"
+msgstr ""
+"Ils n'ont pas apprécié cette attaque, ils ont activé le reste de leurs armes"
+" !"
+
+#: src-en/data/events_special_oe_acid.xml:1299
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/surrender/text"
+msgstr ""
+"Vous recevez un appel du vaisseau de la Coalition au milieu de la bataille. "
+"\"Idiot ! Ne le dessstruis passs !\""
+
+#: src-en/data/events_special_oe_acid.xml:1302
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/destroyed/text"
+msgstr ""
+"Comme vous avez détruit votre cible, les vaisseaux acides sautent au loin, "
+"et le capitaine E.E.U.R. est furieux. \"Espèce d'idiot ! Tu m'as coûté ma "
+"promotion ! Sais-tu combien de paperasse je vais devoir faire ? Je déteste "
+"le papier ! Pourquoi utilisons-nous encore ça ?!\" Ils sautent au loin, "
+"aussi, vous laissant avec une épave. Place à la ferraille."
+
+#: src-en/data/events_special_oe_acid.xml:1306
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/deadCrew/text"
+msgstr ""
+"Comme votre cible est neutralisée, les vaisseaux acides sautent au loin, et "
+"le capitaine E.E.U.R. est satisfait. \"Génial ! Génial. Je vais contacter "
+"les autresss maintenant pour venir collecter. Ton paiement, bien ssûr... Et,"
+" maintenant que j'y pense, pourrais-tu m'emmener avec toi ? Je détesterais "
+"faire de la paperasse après tout ça. Pourquoi utilisons-nous même du papier "
+"? Toujssjours ? Je déteste le papier.\""
+
+#: src-en/data/events_special_oe_acid.xml:1309
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/deadCrew/choice[1]/text"
+msgstr "Acceptez-les dans votre équipage."
+
+#: src-en/data/events_special_oe_acid.xml:1311
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/deadCrew/choice[1]/event/text"
+msgstr ""
+"\"Merveilleux. J'espère que ça ne compte passs comme une desssertion...\" La"
+" Limace vêtue de noir monte à bord. Vous vous préparez à sauter."
+
+#: src-en/data/events_special_oe_acid.xml:1316
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/deadCrew/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1318
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CEALAFORMER\"]/deadCrew/choice[2]/event/text"
+msgstr "\"Ah zut. Eh bien, à jamaisss.\" Vous vous préparez à sauter."
+
+#: src-en/data/events_special_oe_acid.xml:1326
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_REFUGEE\"]/destroyed/text"
+msgstr "Le vaisseau acide se disloque et vous récupérez ce que vous pouvez."
+
+#: src-en/data/events_special_oe_acid.xml:1329
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_REFUGEE\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1331
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_REFUGEE\"]/destroyed/choice/event/text"
+msgstr ""
+"Le vaisseau de réfugiés prétend qu'ils n'avaient pas réalisé qu'il "
+"s'agissait d'un territoire appartenant à la Croissance Acide. En signe de "
+"bonne volonté (et voyant avec quelle efficacité vous avez expédié le "
+"vaisseau ennemi), ils offrent toutes les fournitures qu'ils peuvent "
+"épargner."
+
+#: src-en/data/events_special_oe_acid.xml:1337
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_REFUGEE\"]/deadCrew/text"
+msgstr ""
+"Le vaisseau acide, maintenant hors du contrôle de la Croissance Acide, "
+"fournit une récupération facile."
+
+#: src-en/data/events_special_oe_acid.xml:1340
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_REFUGEE\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1342
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_REFUGEE\"]/deadCrew/choice/event/text"
+msgstr ""
+"Le vaisseau de réfugiés prétend qu'ils n'avaient pas réalisé qu'il "
+"s'agissait d'un territoire appartenant à la Croissance Acide. En signe de "
+"bonne volonté (et voyant avec quelle efficacité vous avez expédié le "
+"vaisseau ennemi), ils offrent toutes les fournitures qu'ils peuvent "
+"épargner."
+
+#: src-en/data/events_special_oe_acid.xml:1361
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/text"
+msgstr ""
+"Avec l'équipage mort, vous commencez à récupérer le vaisseau, cependant vous"
+" arrivez dans une pièce étrange, il semble s'agir d'une sorte de crèche... "
+"Sont-ce des enfants Orchidée ?"
+
+#: src-en/data/events_special_oe_acid.xml:1363
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/text"
+msgstr "Emmenez-les avec vous."
+
+#: src-en/data/events_special_oe_acid.xml:1365
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/text"
+msgstr ""
+"Vous transférez les enfants Orchidée dans votre soute avant de terminer "
+"l'opération de récupération."
+
+#: src-en/data/events_special_oe_acid.xml:1369
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1375
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/text"
+msgstr "Finissez de récupérer le vaisseau et oubliez la crèche."
+
+#: src-en/data/events_special_oe_acid.xml:1377
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/text"
+msgstr ""
+"Vous ignorez la pièce et récupérez le reste du vaisseau, ces enfants iront "
+"bien, non ?"
+
+#: src-en/data/events_special_oe_acid.xml:1380
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1386
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/text"
+msgstr "Installez une balise de détresse et partez."
+
+#: src-en/data/events_special_oe_acid.xml:1388
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/text"
+msgstr ""
+"Vous installez une balise de détresse sur l'épave et essayez de supprimer "
+"toute preuve de votre présence avant de partir aussi vite que possible."
+
+#: src-en/data/events_special_oe_acid.xml:1391
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1401
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DIGITAL_PIRACY\"]/destroyed/text"
+msgstr ""
+"Le vaisseau pirate vous contacte une dernière fois avant de partir en "
+"flammes. \"Non... Notre collection de médias téléchargés illégalement...\""
+
+#: src-en/data/events_special_oe_acid.xml:1405
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DIGITAL_PIRACY\"]/deadCrew/text"
+msgstr ""
+"Avec l'équipage acide du vaisseau pirate mort, vous réussissez à accéder à son stockage numérique, où vous découvrez cent pétaoctets de médias piratés, y compris des films, émissions de télévision, drames radiophoniques, albums de musique, enregistrements de concerts live, manuels scolaires, applications propriétaires, et une copie de \"Un Noël très visqueux\" - une interprétation limace de \"Un chant de Noël\" où Scrooge découvre que le capital était, en fait, la seule chose pour laquelle vivre et qu'il n'a, en fait, jamais rien fait de particulièrement mal.\n"
+"\n"
+"Décidant que la piraterie est mauvaise sous quelque forme qu'elle puisse être présentée, vous décidez d'effacer le contenu du disque, sauvant aux actionnaires théoriques une certaine valeur théorique."
+
+#: src-en/data/events_special_oe_acid.xml:1414
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"DEFEAT_OE_ACID_ELITE\"]/text"
+msgstr ""
+"Vous n'êtes toujours pas sûr si tuer des mécas acides compte comme un "
+"meurtre. Quoi qu'il en soit, perdre un vaisseau d'élite comme celui-là doit "
+"faire mal à la Croissance Acide."
+
+#: src-en/data/events_special_oe_acid.xml:1417
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"DEFEAT_OE_ACID_ELITE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1419
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"DEFEAT_OE_ACID_ELITE\"]/choice/event/text"
+msgstr ""
+"Il semble que la cargaison du vaisseau acide d'élite ait survécu au combat. "
+"À l'intérieur, il y a une arme fonctionnelle, que vous ramenez à bord."
+
+#: src-en/data/events_special_oe_acid.xml:1457
+msgid "data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1459
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1466
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_AUGITEM\"]/destroyed/text"
+msgstr ""
+"Vous avez vaincu la Croissance Acide, laissant le chantier spatial sans "
+"protection."
+
+#: src-en/data/events_special_oe_acid.xml:1469
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_AUGITEM\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1471
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STORM_OE_ACID_AUGITEM_WIN\"]/text"
+msgstr ""
+"Avec le chantier spatial désormais sans défense, vous êtes en mesure de "
+"piller tout ce qui est utile, vous trouvez le système racinaire pour l'un de"
+" leurs systèmes de Floraison Vitale, vous pourriez l'installer dans votre "
+"propre vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1473
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STORM_OE_ACID_AUGITEM_WIN\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"1\"]/text"
+msgstr "Vous avez déjà le système de Floraison Vitale."
+
+#: src-en/data/events_special_oe_acid.xml:1477
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STORM_OE_ACID_AUGITEM_WIN\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"0\"]/text"
+msgstr "Installez le système de Floraison Vitale."
+
+#: src-en/data/events_special_oe_acid.xml:1479
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STORM_OE_ACID_AUGITEM_WIN\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"Vous êtes en mesure d'installer le système organique dans l'espace "
+"précédemment occupé par votre système de survie."
+
+#: src-en/data/events_special_oe_acid.xml:1484
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STORM_OE_ACID_AUGITEM_WIN\"]/choice[3]/text"
+msgstr "Ferraillez-le pour les pièces."
+
+#: src-en/data/events_special_oe_acid.xml:1486
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"NEBULA_STORM_OE_ACID_AUGITEM_WIN\"]/choice[3]/event/text"
+msgstr ""
+"Vous le démantelez pour les quelques composants récupérables contenus à "
+"l'intérieur."
+
+#: src-en/data/events_special_oe_acid.xml:1496
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_AUGITEM\"]/deadCrew/text"
+msgstr ""
+"Vous avez vaincu la Croissance Acide, laissant le chantier spatial sans "
+"protection."
+
+#: src-en/data/events_special_oe_acid.xml:1499
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_AUGITEM\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1507
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1510
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1512
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1516
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1521
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1524
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1526
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1530
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1538
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC_SLUG\"]/destroyed/text"
+msgstr ""
+"Enfin, les possessions prisées des Limaces sont à vous. Après, bien sûr, "
+"avoir partagé vos gains avec le vaisseau acide."
+
+#: src-en/data/events_special_oe_acid.xml:1542
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_DISTRESS_ACIDIC_SLUG\"]/deadCrew/text"
+msgstr ""
+"Enfin, les possessions prisées des Limaces sont à vous. Après, bien sûr, "
+"avoir partagé vos gains avec le vaisseau acide."
+
+#: src-en/data/events_special_oe_acid.xml:1550
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ASTEROIDS\"]/destroyed/text"
+msgstr ""
+"Avec les astéroïdes détruits, vous êtes en mesure de réactiver vos moteurs "
+"et de vous diriger prudemment vers l'épave pour commencer à la récupérer."
+
+#: src-en/data/events_special_oe_acid.xml:1556
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ASTEROIDS\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+"L'astéroïde devrait frapper dans ce laps de temps. Assurez-vous de le "
+"détruire avant que le minuteur n'atteigne 0 !"
+
+#: src-en/data/events_special_oe_acid.xml:1563
+msgid ""
+"data/events_special_oe_acid.xml$//event[@name=\"OE_ACID_ASTEROID_APPROACHING_FAIL\"]/text"
+msgstr ""
+"Vous n'avez pas réussi à arrêter les astéroïdes à temps. Ils s'écrasent sur "
+"votre vaisseau, envoyant des débris dans toutes les directions."
+
+#: src-en/data/events_special_oe_acid.xml:1574
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_ONLY\"]/destroyed/text"
+msgstr ""
+"Avec les orchidées détruites, passez à la récupération de ce que vous pouvez"
+" du vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1578
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_ORCHID_ONLY\"]/deadCrew/text"
+msgstr ""
+"Avec les orchidées tuées et la Croissance Acide vengée, passez à la "
+"récupération de ce que vous pouvez du vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1591
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_SHIELDS\"]/destroyed/text"
+msgstr ""
+"Le vaisseau acide se disloque et vos boucliers reviennent à la normale. Vous"
+" collectez ce que vous pouvez."
+
+#: src-en/data/events_special_oe_acid.xml:1596
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_SHIELDS\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1603
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_OXYGEN\"]/destroyed/text"
+msgstr ""
+"Le vaisseau acide se disloque et votre oxygène revient à la normale. Vous "
+"collectez ce que vous pouvez."
+
+#: src-en/data/events_special_oe_acid.xml:1608
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_OXYGEN\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1615
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_WEAPONS\"]/destroyed/text"
+msgstr ""
+"Le vaisseau acide se disloque et votre système d'armes revient à la normale."
+" Vous collectez ce que vous pouvez."
+
+#: src-en/data/events_special_oe_acid.xml:1620
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_WEAPONS\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1627
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_HACKING\"]/destroyed/text"
+msgstr ""
+"Le vaisseau acide se disloque et leur module de piratage est détruit. Vous "
+"collectez ce que vous pouvez."
+
+#: src-en/data/events_special_oe_acid.xml:1632
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_STATUS_HACKING\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1640
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/text"
+msgstr ""
+"Vous avez vaincu le Vaisseau acide d'élite. Cependant, pendant que vous "
+"tentez de le ferrailler, vous remarquez que le geôlier essaie de fuir !."
+
+#: src-en/data/events_special_oe_acid.xml:1642
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1644
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1649
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1651
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1653
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1655
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/event/text"
+msgstr ""
+"Il semble qu'ils n'aient qu'un seul prisonnier à bord. Un Saboteur Limace, "
+"ils sont reconnaissants."
+
+#: src-en/data/events_special_oe_acid.xml:1663
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/text"
+msgstr ""
+"Vous avez vaincu le Vaisseau acide d'élite. Cependant, pendant que vous "
+"tentez de le ferrailler, vous remarquez que le geôlier essaie de fuir !."
+
+#: src-en/data/events_special_oe_acid.xml:1665
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1667
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1672
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1674
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1676
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1678
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/event/text"
+msgstr ""
+"Il semble qu'ils n'aient qu'un seul prisonnier à bord. Un Saboteur Limace, "
+"ils sont reconnaissants."
+
+#: src-en/data/events_special_oe_acid.xml:1690
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CIVILIAN\"]/gotaway/text"
+msgstr ""
+"Les rebelles sautent au loin. Ils relaieront sans aucun doute votre position"
+" au reste de la rébellion."
+
+#: src-en/data/events_special_oe_acid.xml:1694
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CIVILIAN\"]/destroyed/text"
+msgstr ""
+"Les rebelles ont été vaincus, c'est une bonne chose que vous ayez vu clair à"
+" travers leur déguisement de simple vaisseau civil, ou peut-être êtes-vous "
+"juste un monstre."
+
+#: src-en/data/events_special_oe_acid.xml:1697
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CIVILIAN\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1702
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CIVILIAN\"]/deadCrew/text"
+msgstr ""
+"Les rebelles ont été vaincus, c'est une bonne chose que vous ayez vu clair à"
+" travers leur déguisement de simple vaisseau civil, ou peut-être êtes-vous "
+"juste un monstre."
+
+#: src-en/data/events_special_oe_acid.xml:1705
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_CIVILIAN\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1723
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/surrender/text"
+msgstr ""
+"Quand le vaisseau acide semble prêt à se disloquer, vous remarquez que le "
+"vaisseau Limace a sécurisé le butin et se prépare à sauter au loin !."
+
+#: src-en/data/events_special_oe_acid.xml:1725
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/text"
+msgstr "Continuez à combattre le vaisseau acide."
+
+#: src-en/data/events_special_oe_acid.xml:1727
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/event/text"
+msgstr ""
+"Il vaut mieux que vous finissiez ceci - mais vous vous demandez si ce que "
+"transporte le vaisseau acide sera aussi précieux que ce avec quoi les "
+"Limaces se sont faufilées."
+
+#: src-en/data/events_special_oe_acid.xml:1731
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/text"
+msgstr ""
+"Laissez le vaisseau acide s'échapper et poursuivez le vaisseau Limace."
+
+#: src-en/data/events_special_oe_acid.xml:1733
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1741
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/destroyed/text"
+msgstr ""
+"Avec le vaisseau acide vaincu, vous scannez les débris pour tout ce qui est "
+"utile. Le vaisseau Limace est parti depuis longtemps, les spoils de la cache"
+" en main."
+
+#: src-en/data/events_special_oe_acid.xml:1745
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP1\"]/deadCrew/text"
+msgstr ""
+"Avec le vaisseau acide vaincu, vous scannez les débris pour tout ce qui est "
+"utile. Le vaisseau Limace est parti depuis longtemps, les spoils de la cache"
+" en main."
+
+#: src-en/data/events_special_oe_acid.xml:1752
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP2\"]/destroyed/text"
+msgstr ""
+"Avec le vaisseau acide pris en charge, vous recherchez à nouveau la cache "
+"qu'il protégeait, mais elle est perdue dans les nuages. Vous vous consolez "
+"avec la récupération du vaisseau bien armé."
+
+#: src-en/data/events_special_oe_acid.xml:1756
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_QUEST_OE_ACID_PIRATE_TRAP2\"]/deadCrew/text"
+msgstr ""
+"Avec le vaisseau acide vaincu, vous recherchez à nouveau la cache qu'il "
+"protégeait, mais elle est perdue dans les nuages. Vous vous consolez avec la"
+" récupération du vaisseau bien armé."
+
+#: src-en/data/events_special_oe_acid.xml:1763
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/surrender/text"
+msgstr ""
+"\"Ce combat n'en vaut pas la peine, prends l'antidote en échange de la "
+"paix.\""
+
+#: src-en/data/events_special_oe_acid.xml:1765
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/surrender/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1767
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/surrender/choice[1]/event/text"
+msgstr ""
+"Le vaisseau acide transfère l'antidote et saute rapidement au loin. Vous "
+"hésitez à l'injecter à votre équipage, mais vous n'avez pas le choix. "
+"Heureusement, ils semblent déjà aller mieux."
+
+#: src-en/data/events_special_oe_acid.xml:1774
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/surrender/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1779
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/destroyed/text"
+msgstr ""
+"Vous avez détruit le vaisseau acide, mais maintenant il n'y a aucun moyen de"
+" récupérer l'antidote. Votre équipage est condamné, semble-t-il."
+
+#: src-en/data/events_special_oe_acid.xml:1783
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/deadCrew/text"
+msgstr ""
+"Vous avez neutralisé le vaisseau acide et l'avez vidé de tout son équipage."
+
+#: src-en/data/events_special_oe_acid.xml:1786
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1788
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_INFECTOR\"]/deadCrew/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1797
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_MEET\"]/destroyed/text"
+msgstr ""
+"Vous avez détruit le vaisseau acide. Alors que vous pillez les restes à la "
+"fois du vaisseau acide et du vaisseau étrange détruit au début du combat, "
+"vous découvrez un Soldat acide en vie dans l'épave."
+
+#: src-en/data/events_special_oe_acid.xml:1800
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_MEET\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1805
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_MEET\"]/deadCrew/text"
+msgstr ""
+"Vous avez neutralisé le vaisseau acide et l'avez vidé de tout son équipage. "
+"Alors que vous pillez les restes à la fois du vaisseau acide et du vaisseau "
+"étrange détruit au début du combat, vous découvrez un Soldat acide en vie "
+"dans l'épave."
+
+#: src-en/data/events_special_oe_acid.xml:1808
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_MEET\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1816
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_BOSS\"]/destroyed/text"
+msgstr ""
+"Vous avez détruit le massif vaisseau acide. Alors que vous fouillez "
+"l'immense épave créée par sa défaite, vous trouvez une banque de données "
+"intacte, et sur celle-ci, les schémas d'un vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1820
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_BOSS\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1825
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_BOSS\"]/deadCrew/text"
+msgstr ""
+"Vous avez débarrassé le massif vaisseau acide de son équipage. Alors que "
+"vous fouillez l'immense carcasse créée par sa défaite, vous trouvez une "
+"banque de données intacte, et sur celle-ci, les schémas d'un vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1830
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_BILL_BOSS\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1839
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1843
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/destroyed/text"
+msgstr ""
+"Vous avez détruit le transporteur, et avec lui tout le butin important qu'il"
+" transportait."
+
+#: src-en/data/events_special_oe_acid.xml:1846
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1851
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/text"
+msgstr ""
+"L'équipage est mort, vous laissant le vaisseau. Sa cargaison est à vous. À "
+"bord se trouve un baril inhabituel, peut-être que si vous aviez une arme "
+"sans canon, cela serait utile."
+
+#: src-en/data/events_special_oe_acid.xml:1854
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"OE_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/text"
+msgstr "Installez le canon dans l'arme venant du chantier spatial."
+
+#: src-en/data/events_special_oe_acid.xml:1857
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"OE_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"Vous insérez le canon et il s'assemble sans problème avec le reste de "
+"l'arme."
+
+#: src-en/data/events_special_oe_acid.xml:1859
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"OE_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1861
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"OE_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr "L'arme est maintenant pleinement opérationnelle."
+
+#: src-en/data/events_special_oe_acid.xml:1865
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"OE_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_oe_acid.xml:1873
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"OE_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"0\"]/text"
+msgstr "Vous n'avez aucune utilité pour le canon."
+
+#: src-en/data/events_special_oe_acid.xml:1881
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_SHIPYARD\"]/surrender/text"
+msgstr "Le vaisseau hostile plie. Continuez l'assaut !"
+
+#: src-en/data/events_special_oe_acid.xml:1884
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_SHIPYARD\"]/destroyed/text"
+msgstr ""
+"Vous sortez victorieux ! Le Prototype détruit, les forces de la Coalition "
+"prennent un dernier coup requis pour qu'ils battent en retraite. Vous "
+"ferraillez le vaisseau."
+
+#: src-en/data/events_special_oe_acid.xml:1889
+msgid ""
+"data/events_special_oe_acid.xml$//ship[@name=\"SHIP_OE_ACID_SHIPYARD\"]/deadCrew/text"
+msgstr ""
+"Vous sortez victorieux ! Le Prototype vidé de son équipage, les forces de la"
+" Coalition prennent un dernier coup requis pour qu'ils battent en retraite. "
+"Vous ferraillez le vaisseau."

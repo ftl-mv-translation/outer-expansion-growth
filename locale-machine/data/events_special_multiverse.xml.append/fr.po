@@ -1,0 +1,116 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:47
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/text"
+msgstr "Présentez un membre d'équipage acide."
+
+#: src-en/data/events_special_multiverse.xml.append:49
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"\"Les meilleurs constructs de la Croissance Acide, se protégeant "
+"vaillamment... et maintenant vous aussi. Méfiante envers les étrangers, "
+"c'est rien de moins que... impressionnant que vous ayez réussi à en recruter"
+" un pour votre cause. Oui, je suis... impressionné. Attendez-vous à... des "
+"récompenses avant votre prochain voyage.\""
+
+#: src-en/data/events_special_multiverse.xml.append:53
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:108
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_NORMAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:113
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_NORMAL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:128
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_NORMAL\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Utilisez votre bénédiction pour éviter le combat."
+
+#: src-en/data/events_special_multiverse.xml.append:135
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHALLENGE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"Ceci est l'emplacement de signatures énergétiques anormales. [Acide B]"
+
+#: src-en/data/events_special_multiverse.xml.append:136
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHALLENGE\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:141
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHALLENGE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:146
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHALLENGE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:161
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHALLENGE\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Utilisez votre bénédiction pour éviter le combat."
+
+#: src-en/data/events_special_multiverse.xml.append:169
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_EXTREME\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:174
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_EXTREME\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:193
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_EXTREME\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Utilisez votre bénédiction pour éviter le combat."
+
+#: src-en/data/events_special_multiverse.xml.append:202
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHAOS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:207
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHAOS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:224
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHAOS\"]/choice[@req=\"BRIBE_CHAOS\""
+" and @lvl=\"0\"]/text"
+msgstr "*%$##@*%!"
+
+#: src-en/data/events_special_multiverse.xml.append:228
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_OET_BOSS_ACID_CHAOS\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
+msgstr "Utilisez votre bénédiction pour éviter le combat."
+
+#: src-en/data/events_special_multiverse.xml.append:239
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"OET_BOSS_ACID_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:257
+msgid ""
+"data/events_special_multiverse.xml.append$//event[@name=\"OET_BOSS_ACID_DEADCREW\"]/choice/text"
+msgstr ""

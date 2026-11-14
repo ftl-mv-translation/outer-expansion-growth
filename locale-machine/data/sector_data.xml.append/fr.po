@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/sector_data.xml.append:43
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[1]"
+msgstr "Expansion acide"
+
+#: src-en/data/sector_data.xml.append:44
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[2]"
+msgstr "Colonies acides"
+
+#: src-en/data/sector_data.xml.append:45
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[3]"
+msgstr "Espace acide"
+
+#: src-en/data/sector_data.xml.append:46
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[4]"
+msgstr "Frontière acide"
+
+#: src-en/data/sector_data.xml.append:47
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[5]"
+msgstr "Territoire acide"
+
+#: src-en/data/sector_data.xml.append:48
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[6]"
+msgstr "Mondes périphériques acides"
+
+#: src-en/data/sector_data.xml.append:49
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[7]"
+msgstr "Régions acides"
+
+#: src-en/data/sector_data.xml.append:50
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[8]"
+msgstr "Pièces acides"
+
+#: src-en/data/sector_data.xml.append:51
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[9]"
+msgstr "Dominion acide"
+
+#: src-en/data/sector_data.xml.append:52
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[10]"
+msgstr "Terres acides"
+
+#: src-en/data/sector_data.xml.append:53
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[11]"
+msgstr "Royaume acide"
+
+#: src-en/data/sector_data.xml.append:54
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[12]"
+msgstr "Quartier acide"
+
+#: src-en/data/sector_data.xml.append:55
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[13]"
+msgstr "Secteur lointain acide"
+
+#: src-en/data/sector_data.xml.append:56
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_NEBULA\"]/nameList/name[14]"
+msgstr "Secteur lointain acide"
+
+#: src-en/data/sector_data.xml.append:130
+msgid ""
+"data/sector_data.xml.append$//sectorDescription[@name=\"SECTOR_OE_ACID_UNIQUE\"]/nameList/name"
+msgstr "Origines Acides [!]"

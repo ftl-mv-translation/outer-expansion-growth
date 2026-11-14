@@ -1,0 +1,874 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:6
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY\"]/class"
+msgstr "Croiseur acide"
+
+#: src-en/data/blueprints.xml.append:7
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY\"]/name"
+msgstr "L'Alcalin"
+
+#: src-en/data/blueprints.xml.append:8
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY\"]/desc"
+msgstr ""
+"Originaire de la Croissance Acide, ce vaisseau a permis à la Croissance "
+"d'étendre son influence au-delà des nébuleuses où elle s'était formée. "
+"Jusqu'à présent, seules les orchidées ont conclu la paix avec la Croissance "
+"Acide."
+
+#: src-en/data/blueprints.xml.append:79
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY_2\"]/class"
+msgstr "Croiseur acide"
+
+#: src-en/data/blueprints.xml.append:80
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY_2\"]/name"
+msgstr "Le Caustique"
+
+#: src-en/data/blueprints.xml.append:81
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY_2\"]/desc"
+msgstr ""
+"Ce prototype intègre deux rayons d'artillerie à tir rapide pour percer les "
+"vaisseaux ennemis."
+
+#: src-en/data/blueprints.xml.append:155
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY_3\"]/class"
+msgstr "Croiseur acide"
+
+#: src-en/data/blueprints.xml.append:156
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY_3\"]/name"
+msgstr "L'Acide"
+
+#: src-en/data/blueprints.xml.append:157
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_ARTY_3\"]/desc"
+msgstr ""
+"Une modification fédérale du croiseur acide ; il utilise toujours le système"
+" de Floraison Vitale du vaisseau acide, mais sans aucun Bourgeon Acide."
+
+#: src-en/data/blueprints.xml.append:233
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG\"]/class"
+msgstr "Destroyer acide"
+
+#: src-en/data/blueprints.xml.append:234
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG\"]/name"
+msgstr "Eau de Javel"
+
+#: src-en/data/blueprints.xml.append:235
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG\"]/desc"
+msgstr ""
+"Une nouvelle gamme de croiseurs acides, conçue spécifiquement pour une "
+"puissance de feu élevée, mais au prix d'un système de bouclier plus faible."
+
+#: src-en/data/blueprints.xml.append:307
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG_2\"]/class"
+msgstr "Destroyer acide"
+
+#: src-en/data/blueprints.xml.append:308
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG_2\"]/name"
+msgstr "Antiacide"
+
+#: src-en/data/blueprints.xml.append:309
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG_2\"]/desc"
+msgstr ""
+"Ce vaisseau combine un système d'armement robuste avec une configuration "
+"d'abordage pour en faire un vaisseau puissant et dangereux."
+
+#: src-en/data/blueprints.xml.append:381
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG_3\"]/class"
+msgstr "Destroyer acide"
+
+#: src-en/data/blueprints.xml.append:382
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG_3\"]/name"
+msgstr "Hydroxyde"
+
+#: src-en/data/blueprints.xml.append:383
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_LONG_3\"]/desc"
+msgstr ""
+"Ce vaisseau se débarrasse entièrement du système de bouclier, se concentrant"
+" sur l'utilisation du camouflage et un système d'armement plus puissant "
+"capable de gérer jusqu'à 5 armes simultanément."
+
+#: src-en/data/blueprints.xml.append:456
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_CREW1\"]/class"
+msgstr "Croiseur de Bill"
+
+#: src-en/data/blueprints.xml.append:457
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_CREW1\"]/name"
+msgstr "Eau salée"
+
+#: src-en/data/blueprints.xml.append:458
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_ACID_CREW1\"]/desc"
+msgstr ""
+"Bill s'est fait quelques amis au cours de ses aventures depuis qu'il est "
+"devenu un Naufragé Acide."
+
+#: src-en/data/blueprints.xml.append:536
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_COALITION_CEALAFORMER_ELITE\"]/title"
+msgstr "Tube Cealaformer"
+
+#: src-en/data/blueprints.xml.append:537
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_COALITION_CEALAFORMER_ELITE\"]/short"
+msgstr "Tube"
+
+#: src-en/data/blueprints.xml.append:539
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_COALITION_CEALAFORMER_ELITE\"]/desc"
+msgstr "PLACEHOLDER"
+
+#: src-en/data/blueprints.xml.append:540
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_COALITION_CEALAFORMER_ELITE\"]/tooltip"
+msgstr "PLACEHOLDER"
+
+#: src-en/data/blueprints.xml.append:570
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_1\"]/title"
+msgstr "Rayon 'Hasta'"
+
+#: src-en/data/blueprints.xml.append:571
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_1\"]/short"
+msgstr "'Hasta'"
+
+#: src-en/data/blueprints.xml.append:573
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_1\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le système "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:574
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:614
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_2\"]/title"
+msgstr "Rayon 'Hasta'"
+
+#: src-en/data/blueprints.xml.append:615
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_2\"]/short"
+msgstr "'Hasta'"
+
+#: src-en/data/blueprints.xml.append:617
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_2\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le système "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:618
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_BEAM_ACID_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:659
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BOMB_INVIS_ACID_1\"]/title"
+msgstr "Rayon ACIDE"
+
+#: src-en/data/blueprints.xml.append:660
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BOMB_INVIS_ACID_1\"]/short"
+msgstr "ACIDE"
+
+#: src-en/data/blueprints.xml.append:662
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BOMB_INVIS_ACID_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:663
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BOMB_INVIS_ACID_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:701
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_ACID_CEALAFORMER\"]/title"
+msgstr "Cealoformer acide"
+
+#: src-en/data/blueprints.xml.append:702
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_ACID_CEALAFORMER\"]/short"
+msgstr "Cealoformer"
+
+#: src-en/data/blueprints.xml.append:704
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_ACID_CEALAFORMER\"]/desc"
+msgstr "Lance une capsule remplie de gaz acide comprimé sur l'ennemi."
+
+#: src-en/data/blueprints.xml.append:705
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ARTILLERY_ACID_CEALAFORMER\"]/tooltip"
+msgstr "Lance une capsule remplie de gaz acide comprimé sur l'ennemi."
+
+#: src-en/data/blueprints.xml.append:751
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_OE_ACID\"]/title"
+msgstr "Équipage acide"
+
+#: src-en/data/blueprints.xml.append:752
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_OE_ACID\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:759
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_JUMPER\"]/title"
+msgstr "Générateur SPL acide"
+
+#: src-en/data/blueprints.xml.append:760
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_JUMPER\"]/desc"
+msgstr ""
+"Un générateur de saut avancé capable de voyager vers n'importe quelle balise"
+" du secteur."
+
+#: src-en/data/blueprints.xml.append:768
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS\"]/title"
+msgstr "Système de filtration acide"
+
+#: src-en/data/blueprints.xml.append:769
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS\"]/desc"
+msgstr ""
+"Le système d'oxygène peut basculer entre la production d'oxygène et l'extinction d'incendies.\n"
+"\n"
+"Peut être activé dans le menu de stockage hors combat.\n"
+"En mode oxygène, le système fournit 0,6 pv/sec, passant à 1,2 pv/sec au niveau 4.\n"
+"En mode extincteur, il fournit 1,8 pv/sec, passant à 3,6 pv/sec au niveau 4."
+
+#: src-en/data/blueprints.xml.append:781
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS_OFF\"]/title"
+msgstr "Système de filtration acide"
+
+#: src-en/data/blueprints.xml.append:782
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS_OFF\"]/desc"
+msgstr ""
+"Le système d'oxygène peut basculer entre la production d'oxygène et l'extinction d'incendies.\n"
+"\n"
+"Peut être activé dans le menu de stockage hors combat.\n"
+"En mode oxygène, le système fournit 0,6 pv/sec, passant à 1,2 pv/sec au niveau 4.\n"
+"En mode extincteur, il fournit 1,8 pv/sec, passant à 3,6 pv/sec au niveau 4."
+
+#: src-en/data/blueprints.xml.append:794
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS_ENEMY\"]/title"
+msgstr "Système de filtration acide"
+
+#: src-en/data/blueprints.xml.append:795
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:803
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS_ENEMY_WEAK\"]/title"
+msgstr "Système de filtration acide"
+
+#: src-en/data/blueprints.xml.append:804
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_O2SYS_ENEMY_WEAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:812
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_BILL_MET\"]/title"
+msgstr "Bill rencontré"
+
+#: src-en/data/blueprints.xml.append:813
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"OE_ACID_BILL_MET\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:825
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1\"]/title"
+msgstr "Laser Acide Ver. 1"
+
+#: src-en/data/blueprints.xml.append:826
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1\"]/short"
+msgstr "Acide 1"
+
+#: src-en/data/blueprints.xml.append:828
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:829
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:865
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1_ELITE\"]/title"
+msgstr "Laser Acide Ver. 1 d'élite"
+
+#: src-en/data/blueprints.xml.append:866
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1_ELITE\"]/short"
+msgstr "€ Acide 1"
+
+#: src-en/data/blueprints.xml.append:868
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1_ELITE\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact. La puissante version d'élite inflige des dégâts "
+"d'érosion au lieu de dégâts système."
+
+#: src-en/data/blueprints.xml.append:869
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_1_ELITE\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:920
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2\"]/title"
+msgstr "Laser Acide Ver. 2"
+
+#: src-en/data/blueprints.xml.append:921
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2\"]/short"
+msgstr "Acide 2"
+
+#: src-en/data/blueprints.xml.append:923
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:924
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:960
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2_ELITE\"]/title"
+msgstr "Laser Acide Ver. 2 d'élite"
+
+#: src-en/data/blueprints.xml.append:961
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2_ELITE\"]/short"
+msgstr "€ Acide 2"
+
+#: src-en/data/blueprints.xml.append:963
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2_ELITE\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact. La puissante version d'élite inflige des dégâts "
+"d'érosion au lieu de dégâts système."
+
+#: src-en/data/blueprints.xml.append:964
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_2_ELITE\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1015
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3\"]/title"
+msgstr "Laser Acide Ver. 3"
+
+#: src-en/data/blueprints.xml.append:1016
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3\"]/short"
+msgstr "Acide 3"
+
+#: src-en/data/blueprints.xml.append:1018
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:1019
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1055
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3_ELITE\"]/title"
+msgstr "Laser Acide Ver. 3 d'élite"
+
+#: src-en/data/blueprints.xml.append:1056
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3_ELITE\"]/short"
+msgstr "€ Acide 3"
+
+#: src-en/data/blueprints.xml.append:1058
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3_ELITE\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact. La puissante version d'élite inflige des dégâts "
+"d'érosion au lieu de dégâts système."
+
+#: src-en/data/blueprints.xml.append:1059
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_3_ELITE\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1110
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1\"]/title"
+msgstr "Rayon 'Trident'"
+
+#: src-en/data/blueprints.xml.append:1111
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1\"]/short"
+msgstr "'Trident'"
+
+#: src-en/data/blueprints.xml.append:1113
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:1114
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1135
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1_ELITE\"]/title"
+msgstr "Rayon 'Trident' d'élite"
+
+#: src-en/data/blueprints.xml.append:1136
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1_ELITE\"]/short"
+msgstr "€ 'Trident'"
+
+#: src-en/data/blueprints.xml.append:1138
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1_ELITE\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact. La puissante version d'élite inflige des dégâts "
+"d'érosion au lieu de dégâts système."
+
+#: src-en/data/blueprints.xml.append:1139
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BEAM_ACID_1_ELITE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1175
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1\"]/title"
+msgstr "Barrage acide"
+
+#: src-en/data/blueprints.xml.append:1176
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1\"]/short"
+msgstr "Barrage acide"
+
+#: src-en/data/blueprints.xml.append:1178
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact."
+
+#: src-en/data/blueprints.xml.append:1179
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1\"]/tooltip"
+msgstr ""
+"Tire un unique rayon infligeant 1 dégât ionique et recharge très rapidement."
+" Peut toucher et désactiver les boucliers ainsi que les systèmes."
+
+#: src-en/data/blueprints.xml.append:1220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1_ELITE\"]/title"
+msgstr "Barrage acide d'élite"
+
+#: src-en/data/blueprints.xml.append:1221
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1_ELITE\"]/short"
+msgstr "€ Barrage acide"
+
+#: src-en/data/blueprints.xml.append:1223
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1_ELITE\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le vaisseau "
+"ennemi après l'impact. La version d'élite puissante inflige des dégâts "
+"d'érosion au lieu de dégâts ioniques."
+
+#: src-en/data/blueprints.xml.append:1224
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_ION_ACID_1_ELITE\"]/tooltip"
+msgstr ""
+"Tire un unique rayon infligeant 1 dégât ionique et recharge très rapidement."
+" Peut toucher et désactiver les boucliers ainsi que les systèmes."
+
+#: src-en/data/blueprints.xml.append:1280
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER\"]/title"
+msgstr "Canon Laser Acide"
+
+#: src-en/data/blueprints.xml.append:1281
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER\"]/short"
+msgstr "Canon Laser Acide"
+
+#: src-en/data/blueprints.xml.append:1283
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le système "
+"ennemi après l'impact. Cette arme tire un projectile sur chaque système du "
+"vaisseau ennemi."
+
+#: src-en/data/blueprints.xml.append:1284
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER\"]/tooltip"
+msgstr ""
+"Tire x projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1320
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_ENEMY\"]/title"
+msgstr "Canon Laser Acide"
+
+#: src-en/data/blueprints.xml.append:1321
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_ENEMY\"]/short"
+msgstr "Canon Laser Acide"
+
+#: src-en/data/blueprints.xml.append:1323
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1324
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_ENEMY\"]/tooltip"
+msgstr ""
+"Tire x projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1361
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_BASE\"]/title"
+msgstr "Base Laser"
+
+#: src-en/data/blueprints.xml.append:1362
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_BASE\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1363
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_BASE\"]/desc"
+msgstr "La base du gros Canon Laser. Nécessite le Canon."
+
+#: src-en/data/blueprints.xml.append:1364
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_SUPER_BASE\"]/tooltip"
+msgstr "Arme de stockage"
+
+#: src-en/data/blueprints.xml.append:1645
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_INSTALLED\"]/title"
+msgstr "Acide"
+
+#: src-en/data/blueprints.xml.append:1646
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_INSTALLED\"]/desc"
+msgstr "Amélioration acide installée."
+
+#: src-en/data/blueprints.xml.append:1652
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_REPAIR\"]/title"
+msgstr "Procédures de réparation de fractures"
+
+#: src-en/data/blueprints.xml.append:1653
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_REPAIR\"]/desc"
+msgstr ""
+"L'équipage acide récupère 6,4 pv/s s'il n'est pas blessé pendant 5 secondes."
+
+#: src-en/data/blueprints.xml.append:1659
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_SENSOR\"]/title"
+msgstr "Capteurs polarisés"
+
+#: src-en/data/blueprints.xml.append:1660
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_SENSOR\"]/desc"
+msgstr "L'équipage acide devient immunisé à l'étourdissement."
+
+#: src-en/data/blueprints.xml.append:1666
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_COOLING\"]/title"
+msgstr "Gaz obscurcissant"
+
+#: src-en/data/blueprints.xml.append:1667
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LAB_OE_ACID_COOLING\"]/desc"
+msgstr ""
+"Tout membre d'équipage non-acide dans du Gaz Acide inflige 0,5x dégâts de "
+"combat."
+
+#: src-en/data/blueprints.xml.append:1677
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/desc"
+msgstr ""
+"Un travailleur mécanique contrôlé par un fragment de la Croissance Acide. Ce"
+" design se concentre sur la gestion et la réparation du vaisseau."
+
+#: src-en/data/blueprints.xml.append:1678
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/title"
+msgstr "Travailleur acide"
+
+#: src-en/data/blueprints.xml.append:1679
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/short"
+msgstr "Travailleur acide"
+
+#: src-en/data/blueprints.xml.append:1684
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/powerList/power[1]"
+msgstr "Capacité active : Déployer du Gaz Acide dans la pièce actuelle"
+
+#: src-en/data/blueprints.xml.append:1685
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/powerList/power[2]"
+msgstr "Répare 2x plus vite et soigne 2,4 pv/s dans du Gaz Acide"
+
+#: src-en/data/blueprints.xml.append:1686
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/powerList/power[3]"
+msgstr "0,75x dégâts de combat, Répare à 1,5x vitesse"
+
+#: src-en/data/blueprints.xml.append:1687
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/powerList/power[4]"
+msgstr "Se déplace à 1,5x vitesse"
+
+#: src-en/data/blueprints.xml.append:1688
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_worker\"]/powerList/power[5]"
+msgstr "Ne peut pas suffoquer, Immunisé au Contrôle Mental"
+
+#: src-en/data/blueprints.xml.append:1693
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/desc"
+msgstr ""
+"Équipage acide d'élite. Un soldat mécanique contrôlé par un fragment de "
+"croissance acide. Ce design se concentre sur la répulsion des intrus et sa "
+"propre protection."
+
+#: src-en/data/blueprints.xml.append:1694
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1695
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/short"
+msgstr "Soldat acide"
+
+#: src-en/data/blueprints.xml.append:1700
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/powerList/power[1]"
+msgstr "Capacité active : Déployer du Gaz Acide dans la pièce actuelle"
+
+#: src-en/data/blueprints.xml.append:1701
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/powerList/power[2]"
+msgstr "Répare 2x plus vite et soigne 2,4 pv/s dans du Gaz Acide"
+
+#: src-en/data/blueprints.xml.append:1702
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/powerList/power[3]"
+msgstr "1,25x dégâts de combat"
+
+#: src-en/data/blueprints.xml.append:1703
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1704
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"oe_acid_soldier\"]/powerList/power[5]"
+msgstr "Ne peut pas suffoquer, Immunisé au Contrôle Mental"
+
+#: src-en/data/blueprints.xml.append:1709
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/desc"
+msgstr ""
+"Les fragments de Croissance Acide dans ce soldat ont été isolés pendant "
+"longtemps et se considèrent désormais comme une entité propre."
+
+#: src-en/data/blueprints.xml.append:1710
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/title"
+msgstr "Naufragé"
+
+#: src-en/data/blueprints.xml.append:1711
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/short"
+msgstr "Naufragé"
+
+#: src-en/data/blueprints.xml.append:1716
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/powerList/power[1]"
+msgstr ""
+"Capacité active : Déployer une forme unique de Gaz Acide dans la pièce "
+"actuelle"
+
+#: src-en/data/blueprints.xml.append:1717
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/powerList/power[2]"
+msgstr "Répare 2x plus vite et soigne 4,8 pv/s dans du Gaz Acide ordinaire"
+
+#: src-en/data/blueprints.xml.append:1718
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/powerList/power[3]"
+msgstr "1,5x dégâts de combat, Répare à 1,5x vitesse"
+
+#: src-en/data/blueprints.xml.append:1719
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/powerList/power[4]"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1720
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_oe_bill\"]/powerList/power[5]"
+msgstr "Ne peut pas suffoquer, Immunisé au Contrôle Mental"
+
+#: src-en/data/blueprints.xml.append:1731
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS\"]/title"
+msgstr "Projeteur acide"
+
+#: src-en/data/blueprints.xml.append:1732
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS\"]/short"
+msgstr "Projeteur"
+
+#: src-en/data/blueprints.xml.append:1734
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le système "
+"ennemi après l'impact. L'impact de cette arme éclabousse les pièces "
+"adjacentes, leur appliquant aussi de l'érosion."
+
+#: src-en/data/blueprints.xml.append:1735
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1785
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_PROJ\"]/title"
+msgstr "Projeteur acide"
+
+#: src-en/data/blueprints.xml.append:1786
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_PROJ\"]/short"
+msgstr "Projeteur acide"
+
+#: src-en/data/blueprints.xml.append:1788
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_PROJ\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1789
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_PROJ\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1838
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS\"]/title"
+msgstr "Projeteur acide chaotique"
+
+#: src-en/data/blueprints.xml.append:1839
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS\"]/short"
+msgstr "Projeteur™"
+
+#: src-en/data/blueprints.xml.append:1841
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS\"]/desc"
+msgstr ""
+"Conçue par la croissance acide, cette arme continue de dégrader le système ennemi après l'impact. L'impact de cette arme éclabousse les pièces adjacentes, leur appliquant aussi de l'érosion.\n"
+"La variante chaotique inflige 1 dégât d'éclaboussure en plus des dégâts d'érosion aux pièces adjacentes."
+
+#: src-en/data/blueprints.xml.append:1843
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."
+
+#: src-en/data/blueprints.xml.append:1893
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS_PROJ\"]/title"
+msgstr "Projeteur acide"
+
+#: src-en/data/blueprints.xml.append:1894
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS_PROJ\"]/short"
+msgstr "Projeteur acide"
+
+#: src-en/data/blueprints.xml.append:1896
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS_PROJ\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1897
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_LASER_ACID_BOSS_CHAOS_PROJ\"]/tooltip"
+msgstr ""
+"Tire 3 projectiles, 1 dégât chacun, 60 % de chance d'étourdissement, 60 % de"
+" chance d'incendie."

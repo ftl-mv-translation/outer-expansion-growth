@@ -1,0 +1,20 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_tooltips.xml.append:2
+msgid "data/text_tooltips.xml.append$//text[@name=\"tip_oe_acid\"]"
+msgstr ""
+"Les armes acides libèrent du Gaz Acide dans les pièces touchées. Le gaz "
+"provoque une brèche de coque toutes les 5 secondes et endommage les portes "
+"connectées, les faisant s'ouvrir temporairement. Dure 5 secondes."
+
+#: src-en/data/text_tooltips.xml.append:3
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_oe_acidic_nebula\"]"
+msgstr ""
+"Vous êtes à l'intérieur d'une nébuleuse acide. Vos capteurs ne "
+"fonctionneront pas et vos pièces seront lentement percées au hasard par les "
+"nuages acides."

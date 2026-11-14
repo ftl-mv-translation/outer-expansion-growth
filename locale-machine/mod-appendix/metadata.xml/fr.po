@@ -1,0 +1,16 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/mod-appendix/metadata.xml:3
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
+msgstr "Expansion Extérieure : Croissance Acide"
+
+#: src-en/mod-appendix/metadata.xml:11
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
+msgstr ""
+"Ce mod ajoute la Croissance Acide aux profondeurs du multivers.\n"
+"La Croissance Acide est un esprit de ruche/organisme singulier qui a évolué dans les nuages de nébuleuses au bord de la galaxie. Son intelligence lui a permis de développer sa propre technologie telle que des armes, des vaisseaux, et même des corps mécaniques à habiter."
